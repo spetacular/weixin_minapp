@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <!-- The jQuery library is a prerequisite for all jqSuite products -->
+    <script src="//cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <!-- We support more than 40 localizations -->
+    <script type="text/ecmascript" src="{$base_url}/Public/js/grid.locale-cn.js"></script>
+    <!-- This is the Javascript file of jqGrid -->
+    <script type="text/ecmascript" src="{$base_url}/Public/js/jquery.jqGrid.min.js"></script>
+    <script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- A link to a Boostrap  and jqGrid Bootstrap CSS siles-->
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="{$base_url}/Public/css/ui.jqgrid-bootstrap.css" />
+    <script>
+        $.jgrid.defaults.width = 880;
+        $.jgrid.defaults.responsive = true;
+        $.jgrid.defaults.styleUI = 'Bootstrap';
+        var base_url = '{$base_url}';
+    </script>
+    <style>
+        .define-jqgrid-image{
+            width: 200px;
+            height: 150px;
+        }
+    </style>
+    <script language='javascript' src='{$base_url}/Public/js/flow.min.js'></script>
+    <script type="text/ecmascript" src="{$base_url}/Public/js/uploadfile.js"></script>
+    <meta charset="utf-8" />
+    <title>排队管理</title>
+    <style>
+        .next{
+            width: 64px;
+            height: 64px;
+        }
+    </style>
+</head>
+<body>
+<include file="common/menu" />
+<div style="margin:0 20px 0 20px;width: 500px;">
+
+    <foreach name="result" item="vo">
+
+        <div class="media" style="border-bottom: 1px dotted;padding-bottom: 10px;">
+            <div class="media-body">
+                <h4 class="media-heading">{$vo.description}桌</h4>
+                排队等待人数：{$vo.queue_num}人
+                当前轮到号：{$vo.current_number}号
+
+            </div>
+            <a class="media-right" href="#">
+                <button type="button" class="btn btn-default next" onclick="next({$vo.id});">下一位</button>
+            </a>
+        </div>
+
+    </foreach>
+
+</div>
+<script type="text/javascript">
+function next(id){
+    $.post(
+            '{$base_url}/index.php/home/queue/do_next',
+            { "cat_id": id },
+            function(data){
+                alert('操作成功');
+                location.reload();
+            }, "json");
+}
+</script>
+
+
+</body>
+</html>
+
+

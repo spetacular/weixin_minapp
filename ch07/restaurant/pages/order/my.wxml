@@ -1,0 +1,32 @@
+<!--pages/order/my.wxml-->
+<view class="container">
+  <view class="refresh">
+    <button type="primary" bindtap="reFresh">刷新最新进度</button>
+  </view>
+ <view class="section">
+  <view class="section__title bc_orange">我的排队号</view>
+      <view class="flex-wrp" style="flex-direction:row;">
+        <text class="flex-item">
+          我的号码：<text class="red">{{queue.label}}</text>号\n
+          排队类目：<text class="red">{{queue.description}}</text>桌        
+        </text>          
+      </view>
+    </view><!--section--> 
+     <view class="section">
+      <view class="section__title bc_orange">当前进度</view>
+      <view class="flex-wrp" style="flex-direction:row;">
+        <text class="flex-item">
+          当前轮到号：<text class="red">{{queue.current_number}}</text>号\n
+          <block wx:if="{{queue.ahead_count > 0}}">
+            在您前面还有<text class="red">{{queue.ahead_count}}</text>位
+          </block>
+          <block wx:if="{{queue.ahead_count == 0}}">
+            <text class="red">正在叫您的号码，欢迎就餐</text>
+          </block>
+          <block wx:if="{{queue.ahead_count < 0}}">
+            <text class="red">您的号码已过期，请重新取号！</text>
+          </block>       
+        </text>       
+      </view>
+    </view><!--section--> 
+</view><!--container-->

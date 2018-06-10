@@ -1,0 +1,25 @@
+/* pages/demo/align-content.wxss */
+.item_base{
+    background-color:#FFCC99;
+    margin-bottom:10rpx;
+    margin-right:10rpx;
+    width:70rpx;
+    height:300px;
+}
+.item1{
+    background-color: #CCCCCC;
+    height: 70rpx;
+    margin:20rpx;
+}
+
+.item2{
+    background-color: #CCCCCC;
+    height: 70rpx;
+    margin:20rpx;
+}
+
+.item3{
+    background-color: #CCCCCC;
+    height: 70rpx;
+    margin:20rpx;
+}

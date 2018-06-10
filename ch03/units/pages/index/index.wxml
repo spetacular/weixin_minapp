@@ -1,0 +1,20 @@
+<!--index.wxml-->
+<view class="container">
+
+ <view>------------支持的单位---------------</view>
+  <view class="unit_percent">% - 百分比</view>  
+  <view class="unit_px">px - 像素</view>  
+  <view class="unit_em">em - 字体尺寸</view>
+  <view class="unit_rpx">rpx - responsive pixel</view>
+  <view class="unit_rem">rem - root em</view>
+ 
+ <view>------------不支持的单位---------------</view>
+
+  <view class="unit_in">in - 英寸</view>
+  <view class="unit_cm">cm - 厘米</view>
+  <view class="unit_mm">mm - 毫米</view>  
+  <view class="unit_ex">ex - 字体的 x-height</view>
+  <view class="unit_pt">pt - 磅</view>
+  <view class="unit_pc">pc - 12像素</view>
+  
+</view>

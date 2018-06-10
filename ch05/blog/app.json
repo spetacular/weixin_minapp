@@ -1,0 +1,25 @@
+{
+  "pages":[    
+    "pages/blog/index",
+    "pages/blog/post",
+    "pages/news/index",
+    "pages/news/article"    
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/blog/index",
+      "text": "博客"
+    }, {
+      "pagePath": "pages/news/index",
+      "text": "新闻"
+    }]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "博客园小程序客户端",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
+  },
+  "debug":true
+}

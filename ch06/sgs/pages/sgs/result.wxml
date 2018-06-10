@@ -1,0 +1,10 @@
+<!--result.wxml-->
+<view class="result_container">
+    <view class="result_title">
+        你是三国杀中的{{result.name}}
+    </view>
+    <image src="{{result.img}}" mode="aspectFit"></image>
+    <text class="result_content">
+        {{result.text}}
+    </text>
+</view>

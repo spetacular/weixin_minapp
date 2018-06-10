@@ -1,0 +1,21 @@
+/* pages/demo/align-items.wxss */
+.item1{
+    background-color: #CCCCCC;
+    width:200rpx;
+    height: 100rpx;
+    margin:20rpx;
+}
+
+.item2{
+    background-color: #CCCCCC;
+    width:200rpx;
+    height: 200rpx;
+    margin:20rpx;
+}
+
+.item3{
+    background-color: #CCCCCC;
+    width:200rpx;
+    height: 300rpx;
+    margin:20rpx;
+}

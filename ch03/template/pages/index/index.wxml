@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+  <!--include header-->
+  <include src="header.wxml"/> 
+
+  <!--import-->
+  <import src="odd_template.wxml"/>
+  <import src="even_template.wxml"/>
+
+  <block wx:for="{{[1, 2, 3, 4, 5]}}">
+      <template is="{{item % 2 == 0 ? 'even' : 'odd'}}" data="{{num: item}}"/>
+  </block>
+
+  <!--include footer-->
+  <include src="footer.wxml"/>
+</view>

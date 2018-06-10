@@ -1,0 +1,27 @@
+{
+  "pages":[
+    
+    "pages/order/index",
+    "pages/order/queue",
+    "pages/menu/index",
+    "pages/order/my"
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/order/index",
+      "text": "取号"
+    }, {
+      "pagePath": "pages/menu/index",
+      "text": "菜单"
+    },{
+      "pagePath": "pages/order/my",
+      "text": "我"
+    }]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

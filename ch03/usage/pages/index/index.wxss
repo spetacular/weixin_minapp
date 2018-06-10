@@ -1,0 +1,5 @@
+/**index.wxss**/
+@import "outer.wxss";
+.default{
+  color: #CC9999;
+}

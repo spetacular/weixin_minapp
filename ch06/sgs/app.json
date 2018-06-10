@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/sgs/index",
+    "pages/sgs/show",
+    "pages/sgs/result"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "测测你是三国杀里的谁",
+    "navigationBarTextStyle":"black"
+  }
+}

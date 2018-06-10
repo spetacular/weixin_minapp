@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>博客园_新闻</title><link>http://news.cnblogs.com/</link><description>分享高品质IT新闻</description><language>zh-cn</language><pubDate>Thu, 13 Oct 2016 07:22:57 GMT</pubDate><lastBuildDate>Thu, 13 Oct 2016 07:22:57 GMT</lastBuildDate><copyright>Copyright 2016,cnblogs.com</copyright><item><title>创业者逐渐流向二线城市：杭州将超北上，成为下一个科技中心</title><link>http://news.cnblogs.com/n/555083/</link><pubDate>Thu, 13 Oct 2016 07:10:21 GMT</pubDate><guid>http://news.cnblogs.com/n/555083/</guid><description><![CDATA[<p><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013151014031-1077239963.jpg" alt="创业者逐渐流向二线城市，杭州将超越北京和上海，成为下一个科技中心" /></p>
+<p>当我们谈到中国创业中心时，脑海中跳出来的几座城市名称，十有八九会是北京、上海、以及深圳。这些城市的优势其实非常明显，他们都是中国一线大城市，在创业社群和经济等方面拥有非常大的资源，而且在这些城市，创业者更容易找到投资人，创业环境也更成熟。科技媒体 e27 对中国的二线城市杭州进行了调研，认为杭州将超越北京和上海，成为中国下一个科技中心。</p>
+<p>不过，大城市同样存在一些&ldquo;弊病&rdquo;，比如居高不下的房价和昂贵的人力资源成本，当然，北京的空气污染也令人胆战心惊。现在，不少创业者正在仔细权衡在一线城市的利弊，甚至不少人已经采取行动，选择了&ldquo;回老家&rdquo;创业。</p>
+<p>事实上，如今越来越多的创业者倾向于在二线城市创业，那里的企业运营成本更低，环境更好，而且能够得到本地政府的支持。这种趋势，也让一座城市进入到人们的视野之中，它就是杭州&mdash;&mdash;或许未来将会是&ldquo;中国的硅谷&rdquo;。</p>
+<p><strong>阿里巴巴触发创业热潮</strong></p>
+<p>&ldquo;上有天堂下有苏杭&rdquo;，除了是一座美丽的旅游城市之外，如今杭州最为人所知的可能就是那里是中国电商巨头阿里巴巴的诞生地。十几年前，阿里巴巴就是从这里开始了自己的传奇，现在成功上市后的公司价值已经令人瞠目。正是因为如此，大量创业者受到了激发，甚至有一部分阿里巴巴的前员工也跟随马云的脚步开始创建自己的公司。</p>
+<p>有报告显示，就在阿里巴巴上市的那一年，杭州新增初创公司的数量激增了 107 个百分点。数字不会说谎，因为同一时期，北京和上海两地新增初创公司的增长率分别为 64% 和 53%。同样在去年上半年，杭州依然保持了不错的创业势头，本地初创公司增长率为 38%，而北京和上海的同一指标数据分别为 9% 和 8%。</p>
+<p>从 2013 年开始，杭州初创公司的融资金额增长率达到了 160%，据全国之首，超过 580 亿人民币的投资资金流入到杭州。相比之下，北京初创公司的融资金额增长率为 121%、上海为 119%、深圳为 143%。</p>
+<p>即便是从去年下半年到今年这段时间，创业热有所降温，但杭州的创业环境依然十分良好，部分原因也是得益于中国电子商务行业依然在蓬勃发展。Vision Plus Capital 风投合伙人 Chen Hongliang 认为，中国的电子商务企业在收入模式上通常有更实际的目标，因此即便是资本寒冬到来，他们也能更顽强的生存下去。</p>
+<p><strong>电子商务仍占主导地位，但更多垂直行业正在快速赶上</strong></p>
+<p>毋庸置疑，杭州是阿里巴巴的故乡，但这并不意味着这里的初创公司都只关注电子商务这一个行业领域。从下图的分析图表中可以看出，从 2011 年到 2015 年期间杭州最热门的五大创业垂直领域的趋势变化。的确，2011 年和 2012 年是电子商务最热门的两年，期间该行业领域里的初创公司数量占比超过了 20%。但是在最近三年，企业服务、金融科技、本地生活类、以及社交网络这四大垂直行业领域的初创公司数量正在逐渐增多，从平均占比不到 5% 上升到如今的 10% 左右。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013151014000-1678615239.jpg" alt="创业者逐渐流向二线城市，杭州将超越北京和上海，成为下一个科技中心" width="632" data-img-size-val="632,412" /></p>
+<p>这种趋势说明了杭州的创业环境正趋于多样化和成熟化。在经济转型期间，企业会面临各种挑战，比如业务升级、降低成本等。这些需求会促进企业服务行业的发展，比如云技术和数据服务将会成为下一个蓬勃发展的市场。</p>
+<p>同时，阿里巴巴、蚂蚁金服、以及浙江大学正在为本地创业市场培养大量技术型人才，这对于云技术及数据服务市场来说也是非常重要的。中国第一代创业者中，更多人拥有的是专业的企业经营经验，但现在，创业者更重视自己是否拥有技术背景。</p>
+<p>作为一座正在崛起的创业型城市，杭州似乎已经为取代北京和上海、成为中国最大的科技中心做好了准备。未来，是否会有更多二线城市（比如重庆、成都和厦门）脱颖而出，就让我们拭目以待吧。</p><p><a href="http://news.cnblogs.com/n/555083/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555083" width="1" height="1" alt=""/>]]></description></item><item><title>Google Photos更新：支持将视频转成GIF动图并分享</title><link>http://news.cnblogs.com/n/555082/</link><pubDate>Thu, 13 Oct 2016 07:05:18 GMT</pubDate><guid>http://news.cnblogs.com/n/555082/</guid><description><![CDATA[<p>Google Photos 刚刚发布了一个新版本，除了引入机器学习技术，它还带来了将视频转成 GIF 并分享的功能。通过在桌面、Android、iOS 设备上传视频，Photos 就能够帮你制作出一段剪取自精彩画面的循环式 GIF 动图，然后你可以选择将它分享到社交网络或消息应用中。Google 表示，其 AI 会分析拍摄对象的活跃度，比如跳入水池、或者是一个迷人的微笑。</p>
+<p style="text-align: center;"><img title="animation-video_2x1.gif" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013150407281-1511374239.gif" alt="" /></p>
+<p>本次更新之前，Google Photos 就已经能够将连拍照片汇聚成动画。另外它还会时不时地跳出一些你最近上传过的人物照片，而且每个月都由亮点回顾。</p>
+<p style="text-align: center;"><img title="PM-1-lily-B.width-704.width-447.png" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013150406531-1218152350.png" alt="" /></p>
+<p>值得一提的是，该 app 还能够识别未居中拍摄的照片场景和对象，并将之整理到一套卡片中，以便用户一键修复。</p>
+<p>传送门：<a href="https://photos.google.com/" target="_self">Web</a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.photos" target="_self">Android</a>（Google Play） &nbsp;<a href="https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608" target="_self">iOS</a>（iTunes）</p>
+<p>[编译自：<a href="http://thenextweb.com/google/2016/10/13/google-photos-now-creates-shareable-gifs-from-your-videos/" target="_self">TNW</a>]</p><p><a href="http://news.cnblogs.com/n/555082/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555082" width="1" height="1" alt=""/>]]></description></item><item><title>Oculus CTO卡马克：VR无法光靠“新奇”存活</title><link>http://news.cnblogs.com/n/555081/</link><pubDate>Thu, 13 Oct 2016 07:03:43 GMT</pubDate><guid>http://news.cnblogs.com/n/555081/</guid><description><![CDATA[<p>在近期的 Oculus Connect 会议上，Oculus CTO（首席技术官）约翰&middot;卡马克(John Carmack)发表了闭幕主题演讲，他谈论了 VR 开发的现状，指出 VR 虽然仍是新生事物，但无法光靠&ldquo;新奇&rdquo;特性来持久发展，并指出要向已经成熟的非 VR 优秀游戏产业吸取经验，努力完善 VR 体验。卡马克是一名资深的游戏开发者和工程师，是《毁灭战士》和《雷神之锤》的创造者之一，2014 年卡马克加入了 Oculus，他对未来 VR 技术的发展有独到的理解。</p>
+<p style="text-align: center;"><img title="Oculus-Rift-1-1100x551.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013150336531-909387465.jpg" alt="http://static.cnbetacdn.com/article/2016/1013/4bcd880c28090d7.jpg" /></p>
+<p style="text-align: left;">　<strong>　VR 无法光靠&ldquo;新奇&rdquo;存活</strong></p>
+<blockquote style='border:2px solid #EFEFEF;color:#333333;padding:5px 10px;'>
+<p>&ldquo;我们行进在新奇性上，最开始出现的惊奇是人们之前没有看到过的。但我们必须开始自己下判断，你能否开发出一些 VR 产品，它们的价值和非 VR 产品一样高，或者更高?&rdquo;</p>
+</blockquote>
+<p>严格来说，卡马克的态度非常正确，VR 是能够提供非常新奇的游戏体验，但如果仅仅是以 VR 的方式花上一个小时重复一遍已经存在的游戏-比如《蝙蝠侠：阿甘骑士 VR》到底有没有必要？卡马克称项目开发之初就要小心评估，看看自己的项目有没有必要变成 VR 产品，或者说有没有必要存在。确保 VR 体验是高质量的。</p>
+<p><strong>加载时间严重影响游戏体验</strong></p>
+<p>卡马克多次谈到了缩短 VR 加载时间的重要性。</p>
+<blockquote style='border:2px solid #EFEFEF;color:#333333;padding:5px 10px;'>
+<p>&ldquo;关于质量，现在已经有了客观的测量标准。加载时间只是其中的一项。在游戏产业，大多的团队都在努力，他们要让加载时间降到 29 秒，这样才算达标。如果你坐下来，玩一小时的游戏，29 秒是一个可以接受的标准&hellip;&hellip;但是在 VR 领域，启动时间让人厌恶，我不妨打个比方，如果每一次解锁手机都要 30 秒，你肯定不想再用了。&rdquo;</p>
+</blockquote>
+<p>卡马克多次谈到了缩短 VR 加载时间的重要性。在 VR 中，加载时间太长影响更恶劣，如果是 PC 或者游戏机游戏，在加载时用户可以跳出来查看 Twitter，手机不行。用户在使用 VR 时人已经陷入到头盔中，加载屏会呈现在脸部前方。</p><p><a href="http://news.cnblogs.com/n/555081/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555081" width="1" height="1" alt=""/>]]></description></item><item><title>Box新增四个安全和管控API</title><link>http://news.cnblogs.com/n/555080/</link><pubDate>Thu, 13 Oct 2016 07:02:16 GMT</pubDate><guid>http://news.cnblogs.com/n/555080/</guid><description><![CDATA[<p>英文原文：<a href="https://www.infoq.com/news/2016/10/box-security-governance">Box Introduces Four New Security and Governance APIs</a></p>
+<p>内容管理公司 <a href="https://www.box.com/">Box</a> 最近<a href="https://developer.box.com/security-and-governance-apis">发布了</a>四个安全和管控类 API，这些 API 可以帮助企业用户更好地满足法律、安全，以及合规需求。其中三个 API：保留策略 API、法律保留策略 API，以及文件夹元数据 API 已正式发布，但文件夹元数据 API 依然处于 Beta 测试阶段。此外还有水印 API，根据 Box 开发者网站的介绍也将很快发布。</p>
+<p>Box 的业务模式主要依赖高效率的文档存储和协作，然而需要处理社会安全号等敏感数据的企业用户通常需要针对数据保留设置非常复杂的规则。某些数据只能存储一段预设的时间，随后需要彻底删除，而某些数据出于审计等需求可能至少需要保存数年时间。此外很多企业用户还需要根据所需筛选条件恰当地追踪并使用特定数据点。虽然算不上严格的安全或合规问题，但基于元数据的筛选有助于围绕每个文档追踪不同合规或安全要求的满足情况。Box 的这四个 API 为不同类型的开发问题提供了行之有效的解决方案：</p>
+<ul>
+<li>保留策略&nbsp;- 保留策略 API 可以帮助企业围绕数据保留和数据的彻底删除制定自动化策略。用户可以为围挡创建不同的保留策略，并让 Box 按照策略中定义的时间删除或管理不同内容。</li>
+<li>法律保留策略&nbsp;- 法律保留策略 API 可以帮助用户为不同数据附加不同的法律策略，并根据这些策略创建相关联的分配。此外还可以帮助用户查找特定策略所保留的全部文件版本。</li>
+<li>文件夹元数据&nbsp;- 文件夹元数据 API 可供用户根据所创建的&ldquo;元数据模板&rdquo;为文件附加不同类型的元数据。借此便可按照不同的元数据标签追踪自己的文档。</li>
+<li>水印&nbsp;- 水印 API 可以将用户的邮件地址和最后一次访问点信息通过透明&ldquo;水印&rdquo;的方式应用到文件中，借此可以更好地追踪和管理敏感信息。</li>
+</ul>
+<p>对于可能包含敏感信息的数据，妥善的存储和管理一直是合规性方面最大的难题，再考虑到点对点协作等需求，各种法律与合规方面的要求往往更难以妥善实现。借助 Box 新提供的 API，用户可以轻松地追踪特定文档的协作者清单，借此可通过跨职能协作另企业获益，同时依然可以确保满足各种规章制度的要求。正如 Box 公司 CEO Aaron Levie 九月在 <a href="https://boxworks.box.com/">BoxWorks</a> 活动中所说：&ldquo;全新的 Box 可以将你的所有工作汇聚一处&hellip;目前全球几乎所有生产工作都离不开协作的帮助。&rdquo;这些 API 为看重合规和协作，但认为这两个收益难两全的用户提供了新的方法。</p><p><a href="http://news.cnblogs.com/n/555080/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555080" width="1" height="1" alt=""/>]]></description></item><item><title>为什么你的安卓手机会变慢发烫？罪魁祸首其实是这些手机APP</title><link>http://news.cnblogs.com/n/555079/</link><pubDate>Thu, 13 Oct 2016 06:56:31 GMT</pubDate><guid>http://news.cnblogs.com/n/555079/</guid><description><![CDATA[<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013145452093-1514372428.jpg" alt="" /></p>
+<p>图片来源：视觉中国</p>
+<p>&ldquo;看，系统又自动将 PPTV 安装了回来！&rdquo;</p>
+<p>许达展示了他手中的小米手机，在那些号称能被删除的预装应用里，有好几款在被用户卸载后，过一段时间又会在用户不知情的情况下自动安装回来。</p>
+<p>许达任职于国内一家互联网公司的测试部门，他每天的工作就是和 Android 系统打交道。每当这个时候，他就会熟练地卸载它们，然后等待它们下一次&ldquo;作乱&rdquo;。</p>
+<p>因为太过习惯且不在意，许达反而记不清到底是哪几款应用。只不过 PPTV 恰好在前两天&ldquo;作乱&rdquo;过一次。</p>
+<p>46 岁的老张生活在中国西部一座二线城市。前不久，他刚刚换了自己的第四部 Android 手机&mdash;&mdash;儿子买给他的三星 S7 Edge。为了和身边绝大多数用 Android 手机的人显得合群，他一直都没想着用 iPhone。</p>
+<p>老张不懂手机系统，但这并不代表他对 Android 没有看法。</p>
+<p>新手机使用差不多半年时间，他就会向儿子抱怨，&ldquo;我这手机怎么越用越慢啊，电池也越来越不经用，而且变得越来越容易发烫。&rdquo;没办法，他儿子每次回家，都会帮老张清理一次手机里的垃圾，并解决掉导致老张手机变慢的病根&mdash;&mdash;那些开机启动并常驻在手机后台的顽固应用。</p>
+<p>某种意义上，许达和老张代表了中国 Android 用户最典型的两种类型：懂 Android、追求开放和自由的用户，甚至是行业从业者；不懂 Android，只是将手机当做通信上网工具的普通用户。</p>
+<p>他们角色不同，使用的 Android 手机型号不同，但似乎都面临着同一个困扰&mdash;&mdash;Android 手机不听从他们的意愿，总是会越用越慢，越来越容易发热。</p>
+<p>这一切是如何诞生的？为何到了今天，Android 系统更新到 7.0 版本，Android 手机性能配置不再落后，但&ldquo;慢&rdquo;和&ldquo;易发热&rdquo;依然是所有 Android 手机的通病？</p>
+<p>这背后，其实是一件很复杂的事。</p>
+<p><strong>&ldquo;罪魁祸首&rdquo;</strong></p>
+<p>杨光说，要搞清楚这个问题，&ldquo;得先从 Android 的后台机制说起。&rdquo;通常意义上，Android 其实存在两种后台机制，缓存和服务。</p>
+<p>缓存指的是，用户之前打开过但暂时闲置的应用。按照 Android 的逻辑，系统不建议用户清理缓存，这实际会造成先前加载过的应用需要再次加载，反而浪费了手机资源。如果内存紧张，系统会自动释放长时间未打开过的应用缓存，为新打开应用腾出空间。</p>
+<p>而服务，可以理解为看不见界面，但隐藏在手机深处的应用。理论上来说，只要开发者愿意，服务可以在任何时间做任何事情&mdash;&mdash;调用手机传感器，每秒钟与服务器轮询通信，隔一段周期扫描手机 SD 卡，等等。</p>
+<p>正是由于服务的独特存在，Android 应用可以与手机硬件和系统本身达成更密切的连接，实现很多苹果 iOS 应用无法实现的功能。</p>
+<p>&ldquo;这是 Android 开放的优势，但也造成了问题。&rdquo;独立开发者杨光说，&ldquo;服务不像缓存那样任系统宰割，内存不足时，系统会杀掉一部分应用缓存，但系统无法杀掉服务。如果某个或某几个服务占据了大量的内存、CPU 等资源，手机自然就卡顿变慢。&rdquo;</p>
+<p>对一些想要保证推送消息随时可达的应用来说，利用服务占据系统后台成为了它们的必要选择。而如何实现，开发者又利用到了 Android 另一项机制&mdash;&mdash;开机自启动。</p>
+<p>顾名思义，开机自启动是允许应用在开机时自启并以服务的形式常驻在系统后台。自启动机制的初衷，是为了方便应用服务和推送消息。对一些如果关闭容易对用户造成损失的应用而言，这个机制非常有价值，比如闹钟。</p>
+<p>但是，当各家应用开发者从自身利益角度出发时，这个机制就被滥用了。</p>
+<p>在用户看不见的手机系统底层，自启动的&ldquo;服务&rdquo;们不停的调用系统资源，与服务器通信，耗费着手机电量，影响手机运行速度。杨光认为，自启动机制没有问题，被滥用的自启动机制称得上是手机变慢的&ldquo;罪魁祸首&rdquo;。</p>
+<p>界面新闻记者拿手中一部 2014 年出品的某品牌旗舰 Android 手机做了一项测试。</p>
+<p>手机安装了微信、QQ、微博、百度外卖、百度地图、美团、天猫、淘宝等 12 款大厂应用之后，它们无一例外均在下载时就默认设置成了开机自启动。仅开机，不使用，闲置一天时间不到，手机就会耗尽电量自动关机。</p>
+<p>杨光坦言，国内绝大多数 Android 应用都会设置开机自启动，而在大公司出品的应用，比例会高达 99%。&ldquo;他们更看重商业利益，推送消息多触及一个用户就能带来多一份应用分发推广的收入。&rdquo;</p>
+<p><strong>斗智斗勇</strong></p>
+<p>Google 和手机厂商自然都不会对这一现象坐视不管。</p>
+<p>2012 年 6 月，在推出 Android 4.1 系统时，Google 还推出了自家的推送服务体系&mdash;&mdash;Google Cloud Messaging（GCM）。类似于苹果的推送服务体系（Apple Push Notification Service，APNs），GCM 不要求应用常驻在系统后台，只需要用户设备的一个标识符（Device Token），就能保证应用的推送消息能到达用户的设备。</p>
+<p>在 Android 6.0 中，Google 还推出了 Doze Mode 和 App Standby 两项功能，来保证熄屏状态一段时间后，设备进入休眠状态，最近没有使用的应用将处于空闲状态。此举将减少应用自启情况，并降低电池消耗。显然，Google 也意识到了自启动机制被一些&ldquo;流氓应用&rdquo;滥用了。</p>
+<p>不过在中国由于一些特殊原因，需要连接 Google 服务器的 GCM 无法使用，导致 Google 官方的治理手段失效。</p>
+<p>于是，对 Android 进行深度定制的各家手机厂商推出了它们的应对方法&mdash;&mdash;自启动管理。</p>
+<p>自启动管理，即在手机里有一款内置工具允许用户管理设置允许哪些应用自启动，禁止哪些应用自启动。</p>
+<p>一名猎豹移动安全工程师告诉界面新闻记者，&ldquo;从功能本身来看自启机制是利大于弊的，但如果不加以控制，各家应用都默认自启的话，那这个机制就没有意义，只会让手机越用越慢。手机厂商对自启动机制的正确管理，将一定程度上引导自启动机制被有效的利用。&rdquo;</p>
+<p>在杨光看来，自启动管理做的好的手机厂商真的能帮助用户管理系统后台应用，提高手机运行速度。&ldquo;毕竟没有哪一个手机厂商愿意用户使用自家手机留下一个&lsquo;慢&rsquo;的印象。&rdquo;</p>
+<p>杨光认为，华为和一加应该是属于自启动管理最严苛的手机厂商。华为手机默认禁止任何应用自启动，并且系统设置里有一个白名单机制，不在白名单里的应用会在熄屏一段时间后被强制杀掉。同样，一加手机也有一个原理类似的自启白名单。</p>
+<p>不过，事情远没有这么简单，应用开发者与手机厂商之间斗智斗勇的戏码仍在上演。</p>
+<p>即使用户曾关闭了应用自启动，但有些应用仍会在用户打开过几次之后，偷偷的在系统后台默认自启。而在自启动机制之外，广播（Broadcast）机制也成为了应用自启动的触发条件。Android 允许应用通过&ldquo;广播&rdquo;监听系统事件的发生，而开发者可以设置成，只要特定的系统事件发生，应用就能够自启动。这些事件包括解锁屏幕、切换网络等。</p>
+<p>开发者如果使用了这些唤醒机制来让它的应用自启动，对用户来说，简直防不胜防。</p>
+<p>更为大众熟知并深恶痛绝的另一现象是，&ldquo;全家桶&rdquo;应用相互唤醒。举个例子，当打开百度地图，系统将唤醒&ldquo;百度全家桶&rdquo;旗下的其他应用，用户也能收到百度糯米的推送消息&mdash;&mdash;即使你手机并未打开过百度糯米应用。</p>
+<p>对于这一现象，Google 和 Android 手机厂商也有新的对策。华为工程师就表示，华为手机在 EMUI 4.0（基于 Android 6.0）系统中添加了禁止关联唤醒功能。比如用户打开淘宝，淘宝会唤醒&ldquo;阿里全家桶&rdquo;旗下的微博、支付宝、咸鱼等应用，而 EMUI 现在会帮助用户禁止这一整条唤醒链。</p>
+<p>在此之前，一款名为&ldquo;绿色守护&rdquo;的第三方应用管理工具被称作 Android 上的&ldquo;神器&rdquo;。它的最主要作用就是彻底杀掉自启动并常驻在后台的应用，并且禁止全家桶应用唤醒链条。</p>
+<p>绿色守护开发者 Oasis Feng 认为，国内 Android 用户面对的应用生态实在是&ldquo;太恶劣&rdquo;了，即使是高端手机都无法避免普遍性的性能及电量消耗黑洞。&ldquo;一些应用简直是性能杀手，置用户设备体验于不顾，用户的手机绝不应沦为它们的 KPI 工具。&rdquo;</p>
+<p><strong>另一条路</strong></p>
+<p>对开发者而言，难道就只有&ldquo;自启动机制常驻系统后台&rdquo;这一种对抗系统和用户的手段吗？当然不是。</p>
+<p>举个例子，一个创业团队&ldquo;小世界&rdquo;就尊重了 Android 的设计逻辑，没有设置应用自启动。为了保证消息能顺利到达至用户手机，他们使用了第三方推送服务平台。而第三方云推送平台被看作是目前能避免陷入自启机制滥用怪圈的一大方案。</p>
+<p>连这样的小创业团队都可以做到，那些大厂的开发者们不可能不知晓。</p>
+<p>第三方云推送平台的机制类似于 GCM 和 APNs，开发者将消息推送至第三方平台服务器，它利用长链接与用户手机保持通信，消息就能再到达用户手机。</p>
+<p>使用第三方云推送平台的好处显而易见，开发者应用不需要常驻在手机后台，仅有云推送平台与手机连接，因此只消耗极少的系统资源，不会拖慢手机运行速度。对创业团队来说，初期使用第三方云推送平台，更是一个省时省钱的方案。</p>
+<p>小世界产品负责人阿星说：&ldquo;使用第三方推送服务平台后，小世界的消息到达率基本能保持在 98-99%。在推送方面我们很克制，只做最必要的应用功能层面的推送，尽量不打扰用户。&rdquo;</p>
+<p>根据 DevStore 公开的报告显示，目前市面上百度云推送占据市场第一，在此之后是极光、个推、友盟等。而小米、腾讯、华为都有自建的云推送平台，但市场份额较小。</p>
+<p>在资本眼里，第三方推送行业目前也是一块前景不错的蛋糕。2016 年 4 月，个推获得海通开元、民生银行、赛富基金等联合的 7 亿元C轮融资。6 月，极光推送也宣布完成数千万美元C轮融资。</p>
+<p>不过，也会有人产生疑问&mdash;&mdash;开发者如果使用百度、腾讯的云推送平台，是否意味着也算是它们广义的&ldquo;全家桶&rdquo;中的一员？</p>
+<p>杨光称，使用云推送平台不会有加入全家桶一说。&ldquo;利用这个推送平台只是为了在需要时给用户推送有价值的信息，便于开发者对应用推送的管理。推送平台不会滥用推送，打扰用户。&rdquo;</p>
+<p>但也有技术人员表示了担忧，&ldquo;百度、腾讯的应用也会使用自家的云推送平台，如果第三方应用使用百度腾讯的推送平台，而百度、腾讯的应用也会使用自家的推送平台，二者原理一致，理论上是存在相互唤醒的可能性。&ldquo;</p>
+<p>该技术人员举了一个真实存在的例子，某一家互联网公司在被 BAT 收购之后，使用了母公司的推送平台，推送消息到达率显著提升了，它的应用自然成为了母公司旗下应用唤醒链条中的其中一环。</p>
+<p>从技术上，大公司应用和使用了它家推送平台的小公司应用互相唤醒是可行的。但意愿上双方是否同意，以及大公司是否留有技术后门，目前尚不可知。</p>
+<p>值得注意的是，即便第三方推送平台能帮助开发者实现推送消息的及时到达，但是否保持应用自启动的决定权仍然掌握在开发者手中。有像小世界一样，遵循 Android 的系统逻辑，将后台还给用户的开发者，还是有一定要占据用户手机后台的开发者。只要后者持续存在，数量依然多，Android 手机慢的问题就可能一直存在。</p>
+<p>对用户来说，咱们能做些什么？使用自启动管理工具，提高警惕心，少装垃圾应用，以及购买内存空间大的手机。杨光无奈表示，没办法，谁让 Android 这么多流氓呢。</p>
+<p>（应受访者要求，文中许达、杨光均为化名）</p><p><a href="http://news.cnblogs.com/n/555079/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555079" width="1" height="1" alt=""/>]]></description></item><item><title>Google DeepMind创造可微分神经计算机</title><link>http://news.cnblogs.com/n/555078/</link><pubDate>Thu, 13 Oct 2016 06:36:03 GMT</pubDate><guid>http://news.cnblogs.com/n/555078/</guid><description><![CDATA[<p>名叫神经网络的人工智能算法完全依赖于基于现有训练模型的模式识别，它不具有额外的记忆去储存和获取信息。</p>
+<p>现在，Google 旗下的人工智能公司 DeepMind <a href="http://spectrum.ieee.org/tech-talk/computing/software/googles-deep-mind-boosts-memory-to-navigate-london-underground" target="_blank">创造了可微分神经计算机</a>（differentiable neural computer，DNC），改进机器学习的能力，给予神经网络额外的记忆储存以后使用的信息。</p>
+<p><a href="http://nature.com/articles/doi:10.1038/nature20101" target="_blank">研究报告</a>发表在本周出版的《自然》期刊上。DNC 能在没有先验知识的情况下解决各种小规模问题，比如在两个相距遥远的伦敦地铁车站之间规划最佳路线，或者厘清家谱上亲属之间的关系。DNC 可以访问之前不兼容的外部数据。&ldquo;麻烦在于，神经网络中的记忆被绑定在计算内部，这使得它相当脆弱，难以扩展，&rdquo;DNC 项目负责人 Alex Graves 表示。&ldquo;我们得出结论，使其更强大的方法是分离记忆，以便我们可以扩展它，而不会影响处理器。&rdquo;斯坦福大学心智、脑和计算中心主任 Jay McClelland 称 <a href="http://www.ftchinese.com/story/001069696" target="_blank">DeepMind 的这篇论文</a>是&ldquo;人工智能研究中非常有意思的重要里程碑&rdquo;。</p><p><a href="http://news.cnblogs.com/n/555078/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555078" width="1" height="1" alt=""/>]]></description></item><item><title>为什么内核开发仍然使用电子邮件</title><link>http://news.cnblogs.com/n/555077/</link><pubDate>Thu, 13 Oct 2016 06:34:26 GMT</pubDate><guid>http://news.cnblogs.com/n/555077/</guid><description><![CDATA[<p>在日新月异的今天，Linux 内核开发项目仍然依赖于古老的电子邮件和邮件列表。稳定内核维护者 Greg Kroah-Hartman 指出，<a href="http://lwn.net/Articles/702177/" target="_blank">电子邮件仍然是管理如内核这样庞大项目的最佳方法</a>。</p>
+<p>去年，Greg 一个人就接受了9,781 个补丁，而整个项目平均每小时接受 8 个补丁。他尝试过替代方法，但在对比之后认为电子邮件仍然是最好的方法。Greg 试用过 GitHub 后认为它比较适合小的项目，对于大的项目并不好：它的 pull request 讨论只向特定人开放，它需要网络访问，而开发者由于种种原因在工作时候未必能访问网络。</p>
+<p>Greg 还测试了 <a href="https://www.gerritcodereview.com/">Gerrit</a>，Google 的 Android 项目就使用 Gerrit 管理，Greg 认为 Gerrit 加大了补丁递交的难度。Greg 列举了电子邮件的诸多好处：明文的邮件让任何人都能访问，非母语用户可以方便使用自动翻译工具翻译邮件内容，写脚本处理电子邮件发来的补丁也非常容易，开发者也无需学习新的接口，电子邮件很容易整合到其它系统。</p><p><a href="http://news.cnblogs.com/n/555077/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555077" width="1" height="1" alt=""/>]]></description></item><item><title>这款手表，能让你“触摸”时间</title><link>http://news.cnblogs.com/n/555076/</link><pubDate>Thu, 13 Oct 2016 06:31:41 GMT</pubDate><guid>http://news.cnblogs.com/n/555076/</guid><description><![CDATA[<p>在我们印象中，大多数为残障人士设计的设备总是笨重而缺乏美感的，但这款为视障人士设计的手表，却有些颠覆我们的看法。</p>
+<p>尽管也有一些厂商提供了视障人士专用手表或者语音播报功能，但这些产品大多毫无设计感可言，语音功能很多时候也并不实用，而通过手指触摸表盘读取时间的方式，还可能导致指针位置错乱。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013143114515-179621473.jpg" alt="可触摸的手表" width="700" height="390" /></p>
+<p>香港这家名为 Eone 的公司提供了新的解决方案，他们对传统的石英手表进行了简单的改造，推出了这款 Bradley 手表。</p>
+<p>Bradley 的表盘采用了钛金属材料，并没有玻璃保护盖，使用移动的磁性球代替指针，代表&ldquo;小时&rdquo;的球位于表盘侧面，代表&ldquo;分钟&rdquo;的球被安放于正面的&ldquo;轨道&rdquo;中。用户通过触摸磁球读取时间，即使不小心移动了磁球，它也总能回到正确的位置。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013143114718-1662382053.gif" alt="可触摸的手表" width="770" height="433" /></p>
+<p>手表的名字来自残奥金牌获得者布拉德&middot;斯奈德（ Brad Snyder）。他曾是一名海军军官，在 2011 年阿富汗爆炸中丧失了视力。在产品研发期间，斯奈德与其他盲人和视障人士都参与了这款手表的体验，并提供了许多重要反馈。</p>
+<p>Bradley 起初叫&ldquo; The Bradley Timepiece&rdquo;，是因为公司认为这是一个钟表（Timepiece）， 并不需要用眼睛去看（Watch）。2013 年，该产品在 Kickstarter 上完成众筹。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013143114500-356750004.jpg" alt="可触摸的手表" width="700" height="437" /></p>
+<p>四年以来，Eone 已经卖出了超过 4 万台 Bradley 手表。Bradley 售价在 3000 港币左右，不同型号略有差别。</p>
+<p>虽然 Bradley 95% 的客户都是视障人士，但其联合创始人 Tim Fleschner 表示，这款产品并非专为盲人而设计（毕竟这在某种程度上来说也是一种歧视），他们只是想设计出具有普适性、时代性的产品。</p>
+<p>题图及配图均来自 <a href="https://www.eone-time.com/#">Eone 官网</a></p><p><a href="http://news.cnblogs.com/n/555076/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555076" width="1" height="1" alt=""/>]]></description></item><item><title>为什么人们理解特斯拉，却不能原谅三星</title><link>http://news.cnblogs.com/n/555075/</link><pubDate>Thu, 13 Oct 2016 06:22:35 GMT</pubDate><guid>http://news.cnblogs.com/n/555075/</guid><description><![CDATA[<p><img style="display: block; margin-left: auto; margin-right: auto;" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142220390-1667573615.jpg" alt="151111_FUT_tesla-autopilot.jpg.CROP.promo-xlarge2" width="1180" height="842" /></p>
+<p>对于关心消费级科技进步的人们来说，这是一个多事之秋。</p>
+<p>三个月前，特斯拉的&ldquo;Autopilot&rdquo;&mdash;&mdash;被誉为体验最好，接近无人驾驶的自动驾驶技术遭遇了很大的信任危机：因为在开车的过程中使用尚未&ldquo;完全&rdquo;自动的 Autopliot 驾驶功能，特斯拉车主 Joshua D. Brown 在佛罗里达州公路上陨命，并且在中国、美国等特斯拉售卖地区，又不断出现因为过于信任 Autopilot 功能而发生的车祸事件，人们对这项汽车新科技的热情、期待迅速转化为担心和恐惧。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142220312-1632069950.jpg" alt="note-7-fire-crushader-reddit" width="1200" height="750" /></p>
+<p>三星，旗舰机型 Galaxy Note 7 发售一个月，接连发生手机爆炸事件，并迅速在全球范围内蔓延。这不仅仅让人们第一次认识到外表精美的手机也成为危险品，也少见的让全球的航空公司发出警告：禁止该手机在飞行过程中有任何开机或者使用的行为。有很多网友将 Note 7 誉为&ldquo;手机里的恐怖分子&rdquo;，多年来发展的顺风顺水的三星在全球手机市场份额上开始遭遇致命打击，并触发了消费者的信任危机。</p>
+<p>这两件事成为了这个季节下的热点。虽然特斯拉和三星是完全不同的两家公司&mdash;&mdash;产品、思路、商业基因都无从比较，但今年都因为&ldquo;产品引发安全事故&rdquo;遭遇危机。在事件发酵、早期的时候消费者对两起事件的态度出奇的一致&mdash;&mdash;质疑、担心等等，但最终结果两者却大相径庭。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142220359-682074192.jpg" alt="rsz_tesla-elon_musk_meitu_3" width="1200" height="750" /></p>
+<p>就在一周前，特斯拉拿出了亮眼的财报：第三季度共交付车辆 2.45 万，创下了特斯拉季度销量之最。虽然华尔街依然不给笑脸，但马斯克在 Twitter 上宣布即将发布新产品的消息后，股价上扬6%，充分表明了这些投资者对新产品依旧充满期待。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142220343-357153169.jpg" alt="samsung-galaxy-note-7-recall-fire-explosion-3-840x560" width="840" height="560" /></p>
+<p>但三星的命运走向了另一端： 10 月 11 日三星公司宣布年度双旗舰之一的 Galaxy Note 7 永久停产，公司股价当日暴跌 8%，创金融危机以来最大单日跌幅，市值蒸发 170 亿美元。此外，这次事件很大程度上摧毁了消费者对整个三星品牌的信任，而三星如何挽回损失，恐怕也要等到明年 2 月下一款重磅产品 Galaxy S8 的发布时才能见分晓了。</p>
+<p>这两件事一对比，你会发现，其实特斯拉造成的结果更令人担心：有人在这一事故中失去了生命，而且在这之后全球各地仍旧有与&ldquo;Autopilot&rdquo;相关的事故零零散散地发生。但是时至今日，议论该事件的声音在逐渐减弱，更多的人开始接受并去了解汽车科技的升级。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142220328-257749294.jpg" alt="An employee drives a Tesla Motors Inc. Model S electric automobile, equipped with Autopilot hardware and software, hands-free on a highway in Amsterdam, Netherlands, on Monday， Oct. 27, 2015. Tesla started equipping the Model S with hardware -- radar, a forward-looking camera, 12 long-range sensors, GPS -- to enable the autopilot features about a year ago. Photographer: Jasper Juinen/Bloomberg" width="1200" height="750" /></p>
+<p>为什么特斯拉获得了用户的理解，而三星却难以被人原谅呢？你也许会说，特斯拉的电动车和自动驾驶技术，是站在未来最前沿，你不能因为把枪给了猴子，就说枪错了。那言外之意说三星不够创新喽？</p>
+<p>但真的是这样吗？如果客观看待三星 Note 7 旗舰机型，它的双曲面屏幕、虹膜（Iris）识别、以及甚至能在水下使用的 S Pen 是手机品类中非常前沿且可应用的技术。并且三星 Galaxy Note 7 的电池也创造了历代 Note 中最高储量&mdash;&mdash;电量达到 3500 毫安时，高于对手苹果同期发布的新品 iPhone 7 Plus 的 2900 毫安时很多，可以满足大多数用户一整天的重度使用需求。而且，Note 7 支持高通 Quick Charge 快充以及无线快速充电，把充电速度缩短最大 50 分钟，还把&ldquo;安卓标配&rdquo;的 Micro USB 接口大刀阔斧地换成了 USB Type-C 接口。可以很客观的说，三星在创新方面也是走在这在手机行业前列的。</p>
+<p>一个是手机电池的创新，一个是汽车控制系统的升级。特斯拉和三星都是行业中代表创新的领头羊，它们都曾被人寄予厚望，但是什么导致了二者在用户心目中截然不同的地位呢？</p>
+<p>答案很简单：对待消费者的态度，以及本着一颗怎样的心去承担&ldquo;科技产品进步&rdquo;所产生风险后，承担的责任。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142220343-1091892588.jpg" alt="640" width="640" height="1487" /></p>
+<p>从图上你可以看出，三星电子&mdash;&mdash;这家老牌电子消费品巨头似乎就没有应对信任危机的预案。</p>
+<p>Note 7 自 8 月 2 日开始发售后过去 20 天，三星的很多忠实粉丝还没有见到这款被赞誉有加的新品的时候，8 月 24 日首起爆炸事件就在韩国发生了，正是这件事揭开了&ldquo;三星手机爆炸&rdquo;的帷幕。危机其实已经开始，但三星完全没有将&ldquo;爆炸&rdquo;和&ldquo;安全&rdquo;作为一项很要紧的事情对待，仅将事故草率的判定为没有使用原装充电器充电所导致。毕竟这么多年手机电池爆炸发生太多，一些不当操作导致电池性能不稳定也是很正常的。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142221187-1212813712.jpg" alt="galaxy-note-7-back-796x407" width="796" height="407" /></p>
+<p>但三星没有意识到的是接下来更多的爆炸案发生。截至 9 月 1 日，Note 7 已在全球出现 35 起爆炸事件，该统计事件造成的恐慌情绪在社交媒体上蔓延，三星终于意识到是产品本身存在问题。但三星又一次错误的将爆炸原因归咎为电池问题，宣布全球召回换机计划。而且，这个计划却将其第二大的市场中国大陆用户排除在外，并很有信心的宣布：我们认为中国国行版 Note 7&nbsp;不存在电池问题。</p>
+<p>从这一刻开始三星就完全乱了阵脚，并且暴露出其对待用户&ldquo;张牙舞爪的那一面&rdquo;：是供货商的问题，是使用的问题，还可能是有人故意黑我。反正一定不是我设计和制造的问题，三星的品牌不接受质疑。</p>
+<p>接下来，三星不断推诿责任，否认产品缺陷。三星和为其护短的多家韩媒，对中国大陆用户表现出了严重的歧视和恶意推定：公司一口咬定国行手机爆炸是由于外部加热导致，有人故意这么做。这个回应本身证据不足，大陆的三星用户又因为产品不能被召回，忐忑不安，三星无法被人信服的说辞终于激怒了他们。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142221656-1990294428.jpg" alt="Galaxy-Note-7-explodes" width="570" height="750" /></p>
+<p>国内用户开始有组织的维权，并且有用户自发辞掉工作去专业的实验室来验证手机的安全性，以非常认真的态度来回应三星的&ldquo;不认真&rdquo;。而此时，戏剧性的事情也不断发生，国外那些经历了召回，已经更换过后的新版安全 Note7 也开始在全球范围内陆续爆炸。美国连续发生三起召回之后的&rdquo;安全版&ldquo;Note7 的爆炸，台湾也出现了&ldquo;安全版&rdquo;爆炸，这就尴尬了&hellip;&hellip;难道一夜之前全世界用户都在效仿中国大陆用户用微波炉加热手机吗？</p>
+<p>直到这时，三星才意识到这么推卸下去只会把自己彻底推向深渊。10 月 11 日，在 &ldquo;爆炸门&rdquo; 持续发酵 48 天之后，三星向国家质检总局备案了召回计划，宣布即日召回在中国大陆地区销售的全部 Galaxy Note 7 手机，数量超过 19 万台。</p>
+<p>此时的三星已经没有任何说辞可以解释自己这么多天来信心满满的说辞，等待它们的只是更多的不信任。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142222265-1971243398.jpg" alt="models" width="1000" height="662" /></p>
+<p>而比起三星公关策略上的一错再错，特斯拉完全教科书一般的避免了今年 5 月 7 日佛罗里达州的事故之后。特斯拉 7 月 1 日特斯拉在官网上发布了一篇带有讣告性质的声明《不幸的悲剧》。在文中，特斯拉称死者 Brown 是&ldquo;特斯拉的朋友&rdquo;，并表示这次事故这是特斯拉自动驾驶系统激活以来，行驶总距离 1.3 亿公里中出现的第一例死亡案例。</p>
+<p>而面对媒体和公众即将引爆的对&ldquo;自动驾驶&rdquo;是否安全的大讨论，特斯拉在声明中还原了事故发生的过程，希望让大家相信，如果不是一连串的意外，Model S 的安全系统原本是能够阻避免死亡发生的。</p>
+<p>紧接着，特斯拉在这篇声明中再度强调，自动驾驶功能还在不断的完善过程中，它还是一项辅助功能。特斯拉解释说，每一次自动驾驶启动时，车辆都会提醒驾驶员：&ldquo;请始终握住方向盘，准备随时接管。&rdquo;</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142222343-125822478.jpg" alt="A member of the media test drives a Tesla Motors Inc. Model S car equipped with Autopilot in Palo Alto, California, U.S.， on Wednesday， Oct. 14, 2015. Tesla Motors Inc. will begin rolling out the first version of its highly anticipated &quot;autopilot&quot; features to owners of its all-electric Model S sedan Thursday. Autopilot is a step toward the vision of autonomous or self-driving cars, and includes features like automatic lane changing and the ability of the Model S to parallel park for you. Photographer: David Paul Morris/Bloomberg via Getty Images" width="1200" height="750" /></p>
+<p>特斯拉没有明说，但传达的意思很简单：我们的产品确实达不到能任何时刻帮你开车，那么站在你的角度，合理使用自动驾驶功能，不去尝试用自己的生命冒险，就不会有危险。</p>
+<p>和三星的遭遇类似，特斯拉也在中国遭遇了信任危机。在美国这起事故之前，中国也发生了一起特斯拉车主的死亡事故。2016 年 1 月 20 日，京港澳高速河北邯郸段发生一起追尾事故，一辆特斯拉撞上一辆正在作业的道路清扫车，车主不幸身亡。</p>
+<p>特斯拉对这起事故的解释是，由于碰撞造成的损坏，这辆车没能将日志数据传输到特斯拉的服务器上，所以无法认定车主当时是否启用了 Autopilot。这个解释虽然无法完全让人 100% 满意，但至少是逻辑上可以理解和接受的。相应的，特斯拉也对自身的宣传方式做出了反思，今年 8 月，特斯拉中国官网上所有涉及&ldquo;自动驾驶&rdquo;的措辞全部改为了&rdquo;自动辅助驾驶&ldquo;，以防止中国车主对这项功能产生字面上的误解。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142223187-1694510627.ms-bmp" alt="Tesla" width="1200" height="682" /></p>
+<p>至此，可以说特斯拉为了避免自动驾驶再次发生悲剧，已经尽到了它的义务，但它并没有就此止步。在上个月发布的 Autopilot 8.0 版本更新中，特斯拉针对那些 &ldquo;非正常使用&rdquo;&nbsp;Autopilot&nbsp;的驾驶者，设计了一系列的限制规则。如果驾驶时不把双手老实放在方向盘上，车辆将会不厌其烦地警告提醒你，如果一直对提醒置之不理，车辆甚至会暂时地剥夺你享受自动驾驶功能的权利。这不仅仅是在说辞上，特斯拉在技术上也补足了风险提示。</p>
+<p>通过系统的迭代，特斯拉将驾驶者的自觉性的约束，一下子升级成了强制性的约束，也许在接下来很长一段时间里，都不会传来特斯拉自动驾驶引发事故（或疑似）的消息了。</p>
+<p>所以，人们之所以最终能够理解特斯拉，真的是因为它公关态度更诚恳吗？也许有这样的因素，但归根结底在于，特斯拉一直在用实际行动减少事故发生的可能，从劝告、措辞、到强制，最后能够拿出了真正行之有效的方案。只有这样，大众才能暂时放下死亡事故带来的阴影，继续憧憬新技术带来的可能。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013142223140-1312479370.jpg" alt="samsung-galaxy-note-7-back-camera" width="1125" height="750" /></p>
+<p>而三星，很不幸，在整个&ldquo;爆炸门&rdquo;事件中，三星没有拿出任何有效的解决方案。在三星 Note 7&ldquo;爆炸门&rdquo;的发展得最如火如荼的时候，中国大陆的三星市场公关就像一直像把头埋在沙子里的鸵鸟，在官网、微博、微信等官方渠道上，岁月静好地卖着上半年的另一款旗舰机 Galaxy S7/S7 edge。</p>
+<p>其实三星尝试后用技术方式来解决问题，比如，当三星认为事故原因在于&ldquo;电池缺陷&rdquo;上时，他们尝试通过软件更新帮助用户辨别自己的手机电池是否有缺陷，并敦促问题手机用户立刻关机、参与召回计划。但和特斯拉拿出的有效的解决方案比起来，让用户&ldquo;立即关机&rdquo;，显然不能解决问题。</p>
+<p>不过，在事故发生后，三星这一连串动作留下了很多槽点，但这些决不是他一败涂地的根本原因。新技术的大胆使用是我们在今天能够不断的享受新科技基础和前提，但在信任危机来临之前，如果无法提供有效的解决方案做出升级和弥补，无论怎样做都是错的。</p><p><a href="http://news.cnblogs.com/n/555075/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555075" width="1" height="1" alt=""/>]]></description></item><item><title>扎克伯格挖角亚马逊高管，不为Facebook为慈善</title><link>http://news.cnblogs.com/n/555074/</link><pubDate>Thu, 13 Oct 2016 06:19:46 GMT</pubDate><guid>http://news.cnblogs.com/n/555074/</guid><description><![CDATA[<p>激发人类全部潜能的唯一途径，就是让世界上的每个人都能发现自己的天赋。</p>
+<p>马克&middot;扎克伯格与妻子普丽西拉&middot;陈建立的基金会 the Chan Zuckerberg Initiative（CZI）希望消除人类的疾病，建设一个强大的社区，为此他们捐出了自己持有的 99% Facebook 股份（大约 450 亿美元）。不过维护这样一个基金会需要人和技术的支持。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013141923296-212243259.jpg" alt="zuck_20and_20brian_20-0" width="1000" height="666" /></p>
+<p style="text-align: center;">（图片来自：<a href="http://www.recode.net/2016/10/11/13247202/mark-zuckerberg-tech-team-hire-philanthropy-amazon">Re/Code</a>）</p>
+<p>根据 Re/Code&nbsp;<a href="http://www.recode.net/2016/10/11/13247202/mark-zuckerberg-tech-team-hire-philanthropy-amazon">报道</a>，扎克伯格夫妇成立的基金会 CZI 最近签下了亚马逊搜索业务副总裁 Brian Pinkerton。Pinkerton 担任这家基金会的 CTO，在未来数年内领导组建一个拥有数百人的技术团队。Pinkerton 表示他将会招聘包括移动应用开发者到机器学习科学家在内所有能够为打造科研算法和模型作出贡献的人。据悉 CZI 的第一个成果将会是位于旧金山的一座全新医学研究机构。</p>
+<p>除了 Brian Pinkerton 之外，CZI 还在<a href="https://jobs.lever.co/chanzuckerberg">公开招聘</a>其他管理人员，包括首席新闻发言人、教育沟通总监、教育基金主管、应用科学家、软件工程师等，涵盖 CZI 旗下教育基金、运营、科学基金、公关、技术多个部门。</p><p><a href="http://news.cnblogs.com/n/555074/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555074" width="1" height="1" alt=""/>]]></description></item><item><title>谷歌开源同步定位与制图库Cartographer</title><link>http://news.cnblogs.com/n/555073/</link><pubDate>Thu, 13 Oct 2016 06:10:23 GMT</pubDate><guid>http://news.cnblogs.com/n/555073/</guid><description><![CDATA[<p>信息时代著名的&ldquo;所见即所得&rdquo;原则在地图绘制领域并不那么适用，也就是说，你所看到的（实地考察）不一定会忠实于你最终获得的结果（绘制的地图）。实际上没有比它更不可信的了，一切都取决于现实观察与资料阐释这两个环节。 --法国地理学家、绘图专家、记者菲利普&middot;荷卡斯韦兹</p>
+<p>2016 年 10 月 5 日，谷歌宣布推出一个开源的实时同步定位与制图(<a href="https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping">SLAM</a>)库，名为 <a href="https://github.com/googlecartographer">Cartographer</a>，即制图者。开发人员可以用这个库实现二维和三维定位及制图功能。谷歌同时还开放了能将 Cartographer 集成到 <a href="http://www.ros.org/">ROS</a>、<a href="http://www.toyota-global.com/innovation/partner_robot/family_2.html">Toyota HSR</a> 及 <a href="http://www.turtlebot.com/">TurtleBot</a> 三个机器人系统的辅助项目。</p>
+<p>实际上在 2014 年 9 月，谷歌就曾推出过一款同名的背包，这款背包配备了两个多回波激光扫描仪和一个惯性测量组件，用 SLAM 技术实时绘制室内平面图。还可以在室内地图上添加信息点，比如标记酒店的房间号、博物馆的展览品等。谷歌说，&ldquo;只用几个小时就完成了 39 层的旧金山马奎斯万豪酒店室内地图的制作。&rdquo;</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013140955640-396686798.png" alt="" width="530" /></p>
+<p>同步定位与制图（Simultaneous Localization and Mapping--SLAM）技术最早由 Smith、Self 和 Cheeseman 在 1988 年提出。SLAM 算法把各种传感器（比如<a href="https://en.wikipedia.org/wiki/Lidar">激光雷达</a>、<a href="https://en.wikipedia.org/wiki/Inertial_measurement_unit">惯性测量单元</a>和摄像机等）中收集来的数据整合到一起，由此来计算传感器的位置，同时绘制传感器周边的地图。</p>
+<p>简单来说，Cartographer 制图与定位的过程跟我们在自己房间里绘制平面图和定位的过程很像：</p>
+<ol>
+<li>站在房间中央，在纸上画一个X来表示自己当前所在的位置。</li>
+<li>用<a href="https://en.wikipedia.org/wiki/Laser_rangefinder">激光测距仪</a>测量你到一面墙的距离，然后在纸上画一条线来表示那面墙。</li>
+<li>对你能见到的所有墙重复步骤2，直到把所有墙都画出来。</li>
+<li>
+<p>在你移动的新的位置之后，既然墙还没跑（希望如此），再次测量到墙面的距离就可以确定你的新位置。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013140936250-308693058.png" alt="" width="530" /></p>
+</li>
+</ol>
+<p>下图演示 Cartographer 制图的过程：</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013140944828-2058160427.gif" alt="" width="530" /></p>
+<p>除了谷歌的室内测绘背包，在自动驾驶汽车、自动化仓库叉车、吸尘机器人和<a href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle">无人机</a>等自主性平台中，同步定位与制图技术也是最基本的组成部分。</p>
+<p>随着人工智能技术的不断发展，可以想见，带有同步定位与制图功能的智能设备在我们未来的生活中将发挥非常重要的作用。正是为了推动该项技术及其社区的发展，在内部研发了三年多之后，谷歌决定将其开源。与此同时，在<a href="http://www.deutsches-museum.de/en">德意志博物馆</a>的协助下，谷歌还将其在 Cartographer 背包上收集到的数据一并开放。</p>
+<p>目前 Cartographer 主要是基于激光雷达的 SLAM 实现，谷歌希望通过后续的开发及社区的贡献，支持更多的传感器和机器人平台，同时不断增加新的功能，比如在已有地图中的定位和<a href="http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44821.pdf">终身制图</a>等功能。</p><p><a href="http://news.cnblogs.com/n/555073/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555073" width="1" height="1" alt=""/>]]></description></item><item><title>LOL宣布11月停止支持XP系统：无法登陆游戏</title><link>http://news.cnblogs.com/n/555072/</link><pubDate>Thu, 13 Oct 2016 06:00:55 GMT</pubDate><guid>http://news.cnblogs.com/n/555072/</guid><description><![CDATA[<p>《英雄联盟（LOL）》近日发布公告，今年 11 月起，游戏将对 Windows XP SP2 或以下版本的玩家停止支持。</p>
+<p align="center"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013140045828-170163420.jpg" alt="LOL 宣布 11 月停止支持 XP 系统：无法登陆游戏" /></p>
+<p><strong>虽然 SP3 可以登录游戏，但是官方强调，账号安全依旧处于高风险</strong>。</p>
+<p>对此，台服给出的完整解释是，SP2 已经不再与最新的安全协议兼容，这并不是因为英雄联盟本身程序有什么改变，而是因为玩家和服务器之间需要的安全协议更新而导致的必然结果。</p>
+<p>自 11 月起，32 位系统最低需要 XP SP3 及以上版本，64 位系统最低需要 Vista 系统。</p>
+<p>Windows XP 于 2001 年推出，2008 年 SP3 补丁包推出，2014 年 4 月 8 日微软完全停止支持。在中国，XP 依然是份额仅次于 Windows 7 的桌面操作系统。</p>
+<p align="center"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013140045875-1284679819.png" alt="LOL 宣布 11 月停止支持 XP 系统：无法登陆游戏" /></p><p><a href="http://news.cnblogs.com/n/555072/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555072" width="1" height="1" alt=""/>]]></description></item><item><title>Windows Server 2016正式发布：开放下载</title><link>http://news.cnblogs.com/n/555071/</link><pubDate>Thu, 13 Oct 2016 05:54:26 GMT</pubDate><guid>http://news.cnblogs.com/n/555071/</guid><description><![CDATA[<p>微软今天正式发布了 Windows Server 2016，它可以理解为服务器版的 Windows 10，宣告整个核心架构定型稳定。</p>
+<p>实际上，上月末，微软就已经面向大客户 OEM 伙伴分发了 Windows Server 2016 正式版 ISO 镜像，现在则是全面开放下载使用。</p>
+<p>Windows Server 2016 带来了大量新功能，包括引入新的安全层来保护用户数据及控制访问权限等，关键功能如下：</p>
+<p>拓展安全性&mdash;&mdash;引入新的安全层，加强平台安全性，规避新出现的威胁，控制访问全新并保护虚拟机；</p>
+<p>弹性计算&mdash;&mdash;简化虚拟化升级，启用新的安装选项并增加弹性，帮助用户在不限制灵活性的前提下确保基础设施的稳定性；</p>
+<p>缩减存储成本&mdash;&mdash;在保证弹性、减低成本及增加可控性的基础上拓展软件定义储存的功能性；</p>
+<p>简化网络&mdash;&mdash;新网络为用户数据中心带来了网络核心功能集以及直接来自 Azure 的 SDN 架构；</p>
+<p>应用程序效率和灵活性&mdash;&mdash;Windows Server 2016 为封装、配置、部署、运行、测试及保护用户应用（本地或云端）引入了新方法，使用了诸如 Windows 容器与新 Nano Server 轻量级系统部署选项。</p>
+<p>下载地址：<a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016" target="_blank">点击</a></p><p><a href="http://news.cnblogs.com/n/555071/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555071" width="1" height="1" alt=""/>]]></description></item><item><title>DXXD勒索软件开发者叫嚣推出了无法再被破解的新版本</title><link>http://news.cnblogs.com/n/555070/</link><pubDate>Thu, 13 Oct 2016 05:48:59 GMT</pubDate><guid>http://news.cnblogs.com/n/555070/</guid><description><![CDATA[<p>9 月份的时候，一款名叫 DXXD 的勒索软件感染了不少服务器、并加密了设备上的文件。这款勒索软件没什么特别的地方，只是受感染的系统中的每一个文件，都会被加上&ldquo;.dxxd&rdquo;的后缀（扩展名）。为了解救受害者，安全研究人员 Michael Gillespie 在分析后发布了一款解密软件。没想到的是，勒索软件开发者很快留意到了他的举动，并且修改了程序算法，让文件变得无法被解密。</p>
+<p style="text-align: center;"><img title="1476282170_legal-notice.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134839578-850192272.jpg" alt="" /></p>
+<p>举例说，在被勒索软件 DXXD 感染后，&ldquo;hyacinth.jpg&rdquo;文件就会被加密并更名为&ldquo;hyacinth.jpgdxxd&rdquo;。</p>
+<p>最丧心病狂的是，它竟然会把计算机和共享网络上找到的每一个文件都锁住，只留下一个'ReadMe.TxT'的文本文件，里面包含了开发者的邮件联系方式，不然无法解除。</p>
+<p>不过 DXXD 与其它加密型恶意软件还有些不同，因为它修改了 Windows 注册表的设置，每当用户登录计算机，都会看到勒索信息。</p>
+<p style="text-align: center;"><img title="1476282170_legal-notice-message.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134839593-757589308.jpg" alt="" /></p>
+<p>虽然安全研究人员分析并推出了一款解密软件，但 DXXD 的开发者还在注册表中搞了一个账户，在用户登录前就显示了向试图解密它的安全研究人员们叫板的&ldquo;法律声明&rdquo;。</p>
+<p>DXXD 勒索软件开发者声称利用了一个零日漏洞，开发出了一个更加难以被破解的新版本。分析表明 DXXD 开发者通过暴力破解&ldquo;远程桌面访问&rdquo;（Remote Desktop Access）密码的方式侵入。</p>
+<p>鉴于目前没有解密新版 DXXD 勒索软件的方法，我们强烈建议重置所有受影响机器的密码。</p>
+<p>[编译自：<a href="https://www.neowin.net/news/dxxd-ransomware-developer-mocks-researchers-by-making-malware-undecryptable" target="_self">Neowin</a>&nbsp;, 来源：<a href="http://www.bleepingcomputer.com/news/security/the-dxxd-ransomware-displays-legal-notice-before-users-login/" target="_self">Bleeping Computer</a>]</p><p><a href="http://news.cnblogs.com/n/555070/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555070" width="1" height="1" alt=""/>]]></description></item><item><title>杜克大学正利用HoloLens测试外科手术辅助技术</title><link>http://news.cnblogs.com/n/555069/</link><pubDate>Thu, 13 Oct 2016 05:46:44 GMT</pubDate><guid>http://news.cnblogs.com/n/555069/</guid><description><![CDATA[<p>杜克大学的外科医学系和工程师正借助微软 HoloLens 全息眼镜（混合现实头戴式显示器），打造全新的外科手术辅助系统。这项技术的最终目的是在外科手术时将病人的医疗数据实时投射至病人身体上，帮助紧急外科手术更安全的实施。</p>
+<p style="text-align: center;"><img title="HoloLens-1024x683-1040x580.png" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134626968-26328704.png" alt="http://static.cnbetacdn.com/article/2016/1013/4f3c5097e7ecad7.png" /></p>
+<p>目前，杜克大学神经外科已经在测试使用 HoloLens 辅助第三脑室底造瘘术（ventriculostomy）进行，该手术包括颅内开孔放置导管治疗脑积水这样的精密操作。杜克大学神经外科的 Andrew Cutler 称&ldquo;我们已经能够在混合虚拟技术的帮助下，在人体模型上实施放置导管的操作。此前基本是在盲目地操作，借助于新技术我们能够直接看到三维呈现的实时图像&rdquo;</p>
+<p>团队希望能够在 2017 年首次在尸体上测试这项技术，并在未来最终实现临床应用。</p>
+<p>以下是一段该技术的实时演示：<a href="http://www.tudou.com/v/vyQCTNrS6-s/&amp;resourceId=424255525_04_02_99/v.swf" target="_blank">http://www.tudou.com/v/vyQCTNrS6-s/&amp;resourceId=424255525_04_02_99/v.swf</a></p><p><a href="http://news.cnblogs.com/n/555069/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555069" width="1" height="1" alt=""/>]]></description></item><item><title>比亚迪宣布介入轨道交通 云轨产品进行通车试验</title><link>http://news.cnblogs.com/n/555068/</link><pubDate>Thu, 13 Oct 2016 05:45:20 GMT</pubDate><guid>http://news.cnblogs.com/n/555068/</guid><description><![CDATA[<p>10 月 13 日消息，比亚迪今日宣布介入轨道交通市场，其云轨产品于今日进行了通车试验。比亚迪方面表示，云轨项目建设周期短，只需要两年多的时间，远远小于地铁建设时间，同时云轨的建设成本也仅为地铁的1/4 左右，极为适合二三线城市的交通体系建设，并同样适用于一线城市主干线的补充。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430531-1160394236.jpg" alt="undefined" /></p>
+<p>比亚迪董事长兼总裁王传福表示，比亚迪此前的 IT、汽车、新能源三大产业保持了快速增长，而今天公布的轨道交通将是比亚迪的第四大产业；交通拥堵是一个一直未能解决的问题，现在已经从一线城市蔓延到了二三线甚至四线城市，比亚迪五年前开始对交通进行研究，并认为轨道化的城市更适合中国城市的建设，需要向地下或者空中进行发展。</p>
+<p>比亚迪云轨项目负责人透露，云轨的最高速度可达 80 公里每小时，具有独立路权，能很好适应城市生态环境，其运能可达1-3 万人/小时（单向）。</p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430500-671374020.jpg" alt="undefined" /></p>
+<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430515-1086412112.jpg" alt="undefined" /></p>
+<p style="text-align: center;"><img title="0a167da7c7b7099_size357_w1280_h960.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430531-687067711.jpg" alt="" /></p>
+<p style="text-align: center;"><img title="5ea073a756851c3_size167_w1280_h960.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430515-758253753.jpg" alt="" /></p>
+<p style="text-align: center;"><img title="7f932130d96ccbe_size183_w1280_h960.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430531-1816768329.jpg" alt="" /></p>
+<p style="text-align: center;"><img title="80f63c44059821c_size169_w1280_h960.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013134430765-1419873998.gif" alt="undefined" /></p><p><a href="http://news.cnblogs.com/n/555068/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555068" width="1" height="1" alt=""/>]]></description></item><item><title>微软推出Windows Server 2016和System Center 2016</title><link>http://news.cnblogs.com/n/555067/</link><pubDate>Thu, 13 Oct 2016 05:27:26 GMT</pubDate><guid>http://news.cnblogs.com/n/555067/</guid><description><![CDATA[<p>在上月举办的 Ignite 2016 大会上，微软宣布了我们将在月底前正式迎来 Windows Server 2016 和 System Server 2016，而该公司已于今日兑现了承诺。作为一个&ldquo;cloud-ready&rdquo;的服务器操作系统，其针对云集群做出了很多优化，迁移也比以前方便了许多。当然，安全始终是至关重要的，而 Windows Server 2016 可以锁定多层保护。</p>
+<p style="text-align: center;"><img title="1312312111.png" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013132717296-1186477569.png" alt="" /></p>
+<p>虚拟机可以通过屏蔽功能加密（Shielded Virtual Machines），而主机可通过监护服务预先批准（Host Guardian Service），你甚至可以通过内建的 Hyper-V 容器对应用程序进行隔离。</p>
+<p>Windows Server 2016 有三种部署选项：Server Core（核心）、Server with Desktop Experience（带桌面环境）、以及全新的轻量级 Nano Server。</p>
+<p>ZDNet 指出，MSDN 已经放出了一个 RTM（Azure 镜像）和 VLSC（批量许可服务中心）版本。</p>
+<hr />
+<p>如果想要深入了解 Windows Server 2016，可以留意 Jeffrey Snover、Jeff Woolsey 和 Erin Chapple 在太平洋时间上午 9 点开始的网络直播。</p>
+<p>除了演示和讨论 Windows Server 2016 上的新功能，他们还会回答网友们的提问。</p>
+<p>编译自：<a href="http://www.winbeta.org/news/microsoft-rolls-out-windows-server-2016-and-system-center-2016" target="_self">WinBeta</a></p><p><a href="http://news.cnblogs.com/n/555067/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555067" width="1" height="1" alt=""/>]]></description></item><item><title>马云云栖大会谈未来三十年：五大变革会颠覆各行各业</title><link>http://news.cnblogs.com/n/555066/</link><pubDate>Thu, 13 Oct 2016 05:26:26 GMT</pubDate><guid>http://news.cnblogs.com/n/555066/</guid><description><![CDATA[<p style="text-align: center;"><img title="e9f15611f52c4ba0d3e94c79816c9568.jpg" src="//images2015.cnblogs.com/news/66372/201610/66372-20161013132500515-1000285586.jpg" alt="e9f15611f52c4ba0d3e94c79816c9568.jpg" /></p>
+<p>2016 云栖大会今天上午在杭州拉开帷幕，阿里巴巴董事局主席马云在现场进行了一场主题演讲，马云提出，未来三十年，人类世界将发生五大变革，而这五大变革将会颠覆当前的各行各业，纯电子商务概念将逐渐消失，进入新零售时代。</p>
+<p>马云称，从明年起，阿里巴巴将不再提出电子商务这一概念，&ldquo;线上、线下和物流结合在一起创造出新零售时代。&rdquo;马云认为，彼时，物流的本质将不再是谁比谁更快，而是智慧物流，比谁能真正做到降低企业的库存。对于电子商务冲击传统商业的论调，马云称&ldquo;我个人觉得他们没有把握到新的技术，新零售时代的到来，不仅会对原来的以房地产为主的零售行业造成冲击，同样也会对电子商务带来冲击。&rdquo;</p>
+<p>此外，马云还提出了另外四大变革，即新制造、新金融、新技术、新能源，在他看来，全球互联网将发生革新，技术的应用成为关键，新技术将运用在各行各业。</p>
+<p>而作为联合国贸易和发展会议青年创业和小企业特别顾问，马云呼吁，各国政府应该给予小企业更多的专项优惠政策，&ldquo;过去各国政府的政策都是根据大企业来制定的，未来应该能够给予 30 人以下的小企业、30 岁以下的年轻人更多扶持，年轻人代表着未来&ldquo;。</p>
+<p>值得一提的是，马云演讲的过程中，现场开启了智能语音识别技术，根据马云讲话，在现场大屏幕上同步上传了文字实录，不过，在马云提到泰国的 international plan 时，智能语音识别技术出现了一次识别小差错，让演讲中的出现了一个小插曲。</p><p><a href="http://news.cnblogs.com/n/555066/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555066" width="1" height="1" alt=""/>]]></description></item><item><title>万达调整架构第四次转型：成立网络科技集团</title><link>http://news.cnblogs.com/n/555065/</link><pubDate>Thu, 13 Oct 2016 05:22:36 GMT</pubDate><guid>http://news.cnblogs.com/n/555065/</guid><description><![CDATA[<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013132222046-954808358.jpg" alt="万达产业结构重大调整成立网络科技集团" /></p>
+<p>万达集团产业结构再次调整，全面转型现代服务业。10 月 13 日，万达网络科技集团在上海宣布成立，由原来的商业、文化、金融三大板块，调整为商业、文化、网络、金融四大产业集团。</p>
+<p>新成立的万达网络科技集团从万达金融集团独立分拆出来，专注线上线下融合，打造新一代物联网模式。旗下包括飞凡信息公司、快钱支付公司、征信公司、网络数据中心、海鼎公司、网络信贷公司等。万达金融集团发力传统金融业务，包括银行、保险、证券、投资等。</p>
+<p>万达网络科技集团总裁由原万达金融集团总裁曲德君担任。万达金融集团董事长兼总裁由广发银行原董事长董建岳担任。</p>
+<p>万达集团董事长王健林表示，这次企业内部结构调整是万达深化第四次转型、加速转型现代服务业的重大举措，符合中国经济转型、消费升级的大趋势。</p>
+<p>万达集团的数次转型有两条路线，一条是从地缘上，走出大连，走出中国，走向世界；另一条是从业务模式上，从住宅转向商业，从商业转向文化，这一次则是金融和网络。</p><p><a href="http://news.cnblogs.com/n/555065/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555065" width="1" height="1" alt=""/>]]></description></item><item><title>美国国税局若认真追究 Facebook需补税50亿美元</title><link>http://news.cnblogs.com/n/555064/</link><pubDate>Thu, 13 Oct 2016 05:15:54 GMT</pubDate><guid>http://news.cnblogs.com/n/555064/</guid><description><![CDATA[<p style="text-align: center;"><img src="//images2015.cnblogs.com/news/66372/201610/66372-20161013131403953-867444234.jpg" alt="美国国税局若认真追究 Facebook 需补税 50 亿美元" /></p>
+<p>此前，欧盟委员会宣称爱尔兰提供了不合理的税收优惠政策，要求苹果补交 130 亿欧元的巨额税款，此事引发了全球舆论关注。而实际上，因为爱尔兰税制问题，越来越多的美国科技公司正在陷入政府查税的麻烦中。</p>
+<p>日前，全球最大社交网络 Facebook 正在和美国国内税务署积极抗争，反对可能面临的 50 亿美元的巨额历史欠税。</p>
+<p>综合 Engadget 等美国科技新闻网站报道，众所周知的是，爱尔兰是欧盟境内有名的避税天堂国家，由于税率低，因此苹果、Facebook、谷歌、亚马逊等大量科技公司在爱尔兰设立分公司，他们往往会把欧盟其他国家的收入转移到爱尔兰，从而享受该国的低税率。</p>
+<p>更有甚者，许多科技公司会把爱尔兰作为一个跳板，通过多重注册公司实体的手段，把利润从爱尔兰转移到百慕大、开曼群岛等全球避税天堂地区。这样，许多美国科技公司在避税天堂积累了巨额的现金，但是他们不敢把现金转回美国国内（将会面临三分之一的所得税）。</p>
+<p>目前，美国国内税务署正在调查 Facebook、亚马逊在内多家科技公司的一种避税行为，据称这些公司在把资产从美国转移到爱尔兰时，刻意进行了资产低估。而这种资产低估也逃避了美国的一部分税负。</p>
+<p>据报道，税务署认为，单是在 2010 年，Facebook 因为上述问题必须补缴的税款和利息高达 170 万美元。对于 Facebook 这样规模的网络巨头，这笔钱似乎不算大钱。</p>
+<p>不过 Facebook 表示，如果按照税务署的说法，Facebook 在过去多年必须补缴的税款，将总计高达 30 亿美元到 50 亿美元。</p>
+<p>税务署和 Facebook 之间已经爆发了一场口水战。税务署表示，Facebook 并未提供该机构进行审计所必需的数据，另外也没有派出人员和税务署的审计员进行会谈。</p>
+<p>Facebook 则表示，税务署要求提供大量的文件，另外造成了许多审计过程的拖延。另外目前许多问题尚在&ldquo;争议&rdquo;当中，并无定论，Facebook 没有理由支付所谓的历史欠税。</p>
+<p>在其他公司方面，美国国内税务署也在调查亚马逊和微软公司的低估转移资产案件，其中亚马逊是面向欧洲卢森堡转移资产，微软公司则是向百慕大和波多黎各转移资产。这些转移资产的目的地，都是避税天堂国家。</p>
+<p>此前，许多欧盟国家纷纷指控美国互联网公司在欧盟逃税，其中包括亚马逊、苹果、谷歌和 Facebook 等。英国媒体去年爆料称，Facebook 作为全球性社交网络，在英国获得了不菲的广告收入，但是去年在英国的纳税总额却只有 4327 英镑（相当于 6600 多美元），这样的纳税规模还不如一个英国普通人。据悉，平均年薪 2.6 万英镑的英国人，每年也要纳税 5400 英镑左右。</p><p><a href="http://news.cnblogs.com/n/555064/" target="_blank">本文链接</a></p><img src="http://news.cnblogs.com/news/rssclick.aspx?id=555064" width="1" height="1" alt=""/>]]></description></item></channel></rss>

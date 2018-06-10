@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<view class="container">
+
+  <!-- class -->
+  <view class="intro">class intro</view>
+
+  <!-- id -->
+  <view id="firstname">id firstname</view>
+
+  <!-- element -->
+  <text>TEXT 1</text>
+  <text>TEXT 2</text>
+  <text>TEXT 3</text>
+
+  <!-- element, element -->
+  <icon type="success"/>
+
+  <!-- ::after and ::before -->
+  <view class="pos"> VIEW </view>
+  
+</view>

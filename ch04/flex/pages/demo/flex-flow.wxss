@@ -1,0 +1,6 @@
+/* pages/demo/flex-flow.wxss */
+.item{
+    background-color: #CCCCCC;
+    width:40%;
+    margin:10rpx;
+}

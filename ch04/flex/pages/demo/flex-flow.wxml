@@ -1,0 +1,86 @@
+<!--pages/demo/flex-flow.wxml-->
+<view class="container_demo">
+    <!--row,nowrap-->
+    <view style="display: flex;flex-direction: row;flex-wrap: nowrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--row,wrap-->
+    <view style="display: flex;flex-direction: row;flex-wrap: wrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--row,wrap-reverse-->
+    <view style="display: flex;flex-direction: row;flex-wrap: wrap-reverse;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--row-reverse,nowrap-->
+    <view style="display: flex;flex-direction: row-reverse;flex-wrap: nowrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--row-reverse,wrap-->
+    <view style="display: flex;flex-direction: row-reverse;flex-wrap: wrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--row-reverse,wrap-reverse-->
+    <view style="display: flex;flex-direction: row-reverse;flex-wrap: wrap-reverse;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--column,nowrap-->
+    <view style="display: flex;flex-direction: column;flex-wrap: nowrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--column,wrap-->
+    <view style="display: flex;flex-direction: column;flex-wrap: wrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--column,wrap-reverse-->
+    <view style="display: flex;flex-direction: column;flex-wrap: wrap-reverse;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--column-reverse,nowrap-->
+    <view style="display: flex;flex-direction: column-reverse;flex-wrap: nowrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--column-reverse,wrap-->
+    <view style="display: flex;flex-direction: column-reverse;flex-wrap: wrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--column-reverse,wrap-reverse-->
+    <view style="display: flex;flex-direction: column-reverse;flex-wrap: wrap-reverse;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+</view>

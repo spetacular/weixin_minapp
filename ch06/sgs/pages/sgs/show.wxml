@@ -1,0 +1,17 @@
+<!--show.wxml-->
+<view class="show-container">
+  <view>{{answer.question}}</view>
+  <form bindsubmit="formSubmit">
+    <radio-group name="nextId">
+        <label class="label_ans">
+            <radio value="{{answer['answer'][0]['action']}}" name="{{answer['answer'][0]['option']}}" checked="{{checked_0}}"/>
+            {{answer['answer'][0]['text']}}
+        </label>
+        <label class="label_ans">
+            <radio value="{{answer['answer'][1]['action']}}" name="{{answer['answer'][1]['option']}}" checked="{{checked_1}}"/>
+            {{answer['answer'][1]['text']}}
+        </label>
+    </radio-group>
+    <button formType="submit" type="primary" data-currentAns="{{answer.id}}" >下一题</button>
+  </form>
+</view>

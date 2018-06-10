@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <view data-name="MINA" bindtap="changeText"> {{ text }} </view>
+</view>

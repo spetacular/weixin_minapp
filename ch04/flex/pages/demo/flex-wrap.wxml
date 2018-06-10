@@ -1,0 +1,23 @@
+<!--pages/demo/flex-wrap.wxml-->
+<view class="container_demo">
+    <!--nowrap-->
+    <view style="display: flex;flex-wrap: nowrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--wrap-->
+    <view style="display: flex;flex-wrap: wrap;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+
+     <!--wrap-reverse-->
+    <view style="display: flex;flex-wrap: wrap-reverse;">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+    </view>
+</view>

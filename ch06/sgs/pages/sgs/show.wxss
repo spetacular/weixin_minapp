@@ -1,0 +1,7 @@
+.show-container{
+    margin: 10rpx 5rpx 0 5rpx;
+    padding:20rpx;
+}
+.label_ans{
+    display: block;
+}

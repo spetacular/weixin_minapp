@@ -1,0 +1,14 @@
+<!--pages/menu/index.wxml-->
+<view class="container">  
+    <view wx:for="{{menus}}" wx:key="id" class="section">
+      <view class="flex-wrp" style="flex-direction:row;">
+      <image style="width: 500rpx; height: 200rpx; background-color: #eeeeee;" mode="aspectFill" src="{{item.image}}" bindtap="preview" data-imgsrc="{{item.image}}" >
+      </image>
+        <view class="flex-item">
+         <text>{{item.name}}</text>\n
+          <text class="flex-desc">{{item.description}}</text>\n
+          <text class="red">¥ {{item.price}}</text>
+        </view>           
+      </view>
+    </view><!--section-->
+</view><!--container-->

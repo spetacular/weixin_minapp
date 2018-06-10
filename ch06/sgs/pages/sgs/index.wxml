@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view>测测你是三国杀里的谁</view>
+  <view>
+      <image src="../../images/sgs_front.jpg"></image>
+  </view>
+  <button bindtap="start" type="primary">开始测试</button>
+</view>

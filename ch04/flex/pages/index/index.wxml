@@ -1,0 +1,37 @@
+<!--index.wxml-->
+<view class="container">
+<view class="widgets">
+                <view class="widgets__item">
+                    <view class="widgets__info" bindtap="gotodemo" data-route="../demo/flex-direction">
+                        <text class="widgets__info-name">flex-direction</text>
+                        <image class="widgets__info-img" src="/image/arrowright.png" mode="aspectFill" />
+                    </view>
+
+                    <view class="widgets__info" bindtap="gotodemo" data-route="../demo/flex-wrap">
+                        <text class="widgets__info-name">flex-wrap</text>
+                        <image class="widgets__info-img" src="/image/arrowright.png" mode="aspectFill" />
+                    </view>
+
+                    <view class="widgets__info" bindtap="gotodemo" data-route="../demo/flex-flow">
+                        <text class="widgets__info-name">flex-flow</text>
+                        <image class="widgets__info-img" src="/image/arrowright.png" mode="aspectFill" />
+                    </view>
+
+                    <view class="widgets__info" bindtap="gotodemo" data-route="../demo/justify-content">
+                        <text class="widgets__info-name">justify-content</text>
+                        <image class="widgets__info-img" src="/image/arrowright.png" mode="aspectFill" />
+                    </view>
+
+                    <view class="widgets__info" bindtap="gotodemo" data-route="../demo/align-items">
+                        <text class="widgets__info-name">align-items</text>
+                        <image class="widgets__info-img" src="/image/arrowright.png" mode="aspectFill" />
+                    </view>
+
+                    <view class="widgets__info" bindtap="gotodemo" data-route="../demo/align-content">
+                        <text class="widgets__info-name">align-content</text>
+                        <image class="widgets__info-img" src="/image/arrowright.png" mode="aspectFill" />
+                    </view>
+                    
+                </view>
+        </view>
+</view>

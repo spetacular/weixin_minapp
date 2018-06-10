@@ -1,0 +1,45 @@
+/**index.wxss**/
+ .unit_percent{
+   width: 50%;
+   background-color: #66CCCC;
+ }
+  .unit_in{
+    width: 1.32in;
+    background-color: #CCFF66;
+  }
+  .unit_cm{
+    width: 5.35cm;
+    background-color: #FF99CC;
+  }
+  .unit_mm{
+    width: 33.5mm;
+    background-color: #FF9999;
+  }
+  .unit_em{
+    width: 10em;
+    background-color: #FFCC99;
+  }
+  .unit_ex{
+    width: 20ex;
+    background-color: #FF6666;
+  }
+  .unit_pt{
+    width: 10pt;
+    background-color: #FFFF66;
+  }
+  .unit_pc{
+    width: 20.5pc;
+    background-color: #99CC66;
+  }
+  .unit_px{
+    width: 187.5px;
+    background-color: #666699;
+  }
+  .unit_rpx{
+    width: 375rpx;
+    background-color: #CC9999;
+  }
+  .unit_rem{
+    width: 10rem;
+    background-color: #CC0066;
+  }

@@ -1,0 +1,149 @@
+[ 2017-03-02T22:23:36+08:00 ] ::1 /restaurant/index.php/api/user/queues
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000221s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0227s ]
+SQL: SHOW COLUMNS FROM `queue` [ RunTime:0.0053s ]
+SQL: SELECT `id`,`label`,`description` FROM `category`  [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 1 AND `status` = 0 LIMIT 1   [ RunTime:0.0057s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 1 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 2 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 2 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 3 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 3 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 4 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 4 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2017-03-02T22:24:20+08:00 ] ::1 /restaurant/index.php/api/user/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+ERR: 非法操作:test
+
+[ 2017-03-02T22:24:51+08:00 ] ::1 /restaurant/index.php/api/user/queues
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `queue` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`label`,`description` FROM `category`  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 1 AND `status` = 0 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 1 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 2 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 2 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 3 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 3 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 4 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 4 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-02T22:24:52+08:00 ] ::1 /restaurant/index.php/api/user/wxlogin?code=011MpmVc2g6xtA0XecXc2P6tVc2MpmVk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `user` WHERE `openid` = 'oU9sY0fnMXahWIfy_w2K2pRj6yxk' LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `user` SET `session_key`='A0BlvctTFjmYnWt+Dn9u7w==',`expires_in`='7200',`openid`='oU9sY0fnMXahWIfy_w2K2pRj6yxk',`created_at`='1488464692' WHERE `openid` = 'oU9sY0fnMXahWIfy_w2K2pRj6yxk' [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-03-02T22:27:00+08:00 ] ::1 /restaurant/index.php/api/user/queue_by_catid?catid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `queue` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`label`,`description` FROM `category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 1 AND `status` = 0 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `number` FROM `queue` WHERE ( category_id=1 and status=1 ) ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2017-03-02T22:29:14+08:00 ] ::1 /restaurant/index.php/api/user/do_queue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `queue` [ RunTime:0.0012s ]
+SQL: SELECT MAX(number) AS tp_max FROM `queue` WHERE ( category_id=1 and status!=2 ) LIMIT 1   [ RunTime:0.0012s ]
+SQL: INSERT INTO `queue` (`guest_id`,`nickname`,`number`,`table_id`,`category_id`,`status`,`updated_at`) VALUES ('oU9sY0fnMXahWIfy_w2K2pRj6yxk','david','5','0','1','0','1488464954') [ RunTime:0.0036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2017-03-02T22:29:15+08:00 ] ::1 /restaurant/index.php/api/user/my_queue?gusetId=oU9sY0fnMXahWIfy_w2K2pRj6yxk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `queue` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `queue` WHERE `guest_id` = 'oU9sY0fnMXahWIfy_w2K2pRj6yxk' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id`,`label`,`description` FROM `category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 1 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 1 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-02T22:31:20+08:00 ] ::1 /restaurant/index.php/api/menu/get_menus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0019s ]
+SQL: SELECT `name`,`image`,`price`,`description` FROM `menu` WHERE ( status=1 )  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-02T22:42:33+08:00 ] ::1 /restaurant/index.php/api/user/queues
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `queue` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`label`,`description` FROM `category`  [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 1 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 1 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 2 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 2 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 3 AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 3 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `queue` WHERE `category_id` = 4 AND `status` = 0 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `number` FROM `queue` WHERE `category_id` = 4 AND `status` = 1 ORDER BY updated_at desc LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+

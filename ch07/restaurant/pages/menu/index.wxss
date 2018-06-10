@@ -1,0 +1,53 @@
+/* pages/menu/index.wxss */
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30rpx 0;
+  box-sizing: border-box;
+}
+
+.section {
+  margin-bottom: 50rpx;
+  border: 1px dotted #c96;
+  width: 95%;
+  border-radius: 10rpx;
+}
+
+.section__title {
+  margin-bottom: 0rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  width: 200rpx;
+  border-radius: 5rpx;
+}
+
+.flex-wrp {
+    height:auto;
+
+  display: flex;
+  background-color: #fff;
+}
+
+.flex-item {
+    height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+  padding-left:5rpx;
+padding-right:5rpx;
+
+}
+ .flex-desc{
+     font-size:9px;
+
+ }
+
+ .flex-price{
+     font-size:9px;
+ }

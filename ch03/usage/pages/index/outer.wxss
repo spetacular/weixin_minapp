@@ -1,0 +1,4 @@
+/**outer.wxss**/
+.outer{
+    color:#666699;
+}

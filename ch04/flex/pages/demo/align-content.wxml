@@ -1,0 +1,45 @@
+<!--pages/demo/align-content.wxml-->
+<view class="container_demo" style="display:flex;justify-content:space-between">
+    <!--flex-start-->
+    <view class="item_base" style="display: flex;flex-wrap: wrap;align-content:flex-start;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--flex-end-->
+    <view class="item_base" style="display: flex;flex-wrap: wrap;align-content:flex-end;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--center-->
+    <view class="item_base"  style="display: flex;flex-wrap: wrap;align-content:center;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--space-between-->
+    <view class="item_base"  style="display: flex;flex-wrap: wrap;align-content:space-between;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--space-around-->
+    <view class="item_base"  style="display: flex;flex-wrap: wrap;align-content:space-around;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--stretch-->
+    <view class="item_base"  style="display: flex;flex-wrap: wrap;align-content:stretch;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+</view>

@@ -1,0 +1,25 @@
+/**index.wxss**/
+.intro{
+  color: #CC9999;
+}
+#firstname{
+  color:#FF6666;
+}
+
+text{
+  color:#999999;
+}
+
+text,icon{
+  margin-left: 100px;
+}
+
+.pos::before{ 
+  content:"Before";
+  background-color: #CC6600;
+}
+
+.pos::after{ 
+  content:"After";
+  background-color: #CCCC33;
+}

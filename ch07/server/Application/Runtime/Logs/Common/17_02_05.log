@@ -1,0 +1,12 @@
+[ 2017-02-05T21:57:04+08:00 ] ::1 /restaurant/index.php/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+ERR: 无法加载模块:Login
+
+[ 2017-02-05T21:57:07+08:00 ] ::1 /restaurant/index.php/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+ERR: 无法加载模块:Login
+

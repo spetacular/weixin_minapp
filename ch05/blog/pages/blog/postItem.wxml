@@ -1,0 +1,29 @@
+<template name="postItem">
+  <view class="feed-item" bindtap="bindViewTap" data-blogid="{{item.id}}">
+    <view class="feed-source">
+      <view class="avatar">
+        <image src="{{item.avatar}}"></image>
+      </view>
+      <text>{{item.name}}</text>
+      <text class="item-more">{{item.pubDate}}</text>
+    </view>
+    <view class="feed-content">
+      <view class="entry">
+        <text class="entry-title">
+          {{item.title}}
+        </text>
+      </view>
+      <view class="statistics-body">
+        <view>
+          <text class="statistics-txt">
+            <block wx:if="{{item.detail == 1}}"> {{item.content}} </block>
+            <block wx:else> {{item.summary}}</block>
+          </text>
+        </view>
+        <view class="statistics-actions">
+          {{item.views}} 阅读 • {{item.comments}} 评论 • {{item.diggs}} 顶
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

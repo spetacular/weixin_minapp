@@ -1,0 +1,38 @@
+<!--pages/demo/align-items.wxml-->
+<view class="container_demo">
+    <!--flex-start-->
+    <view style="display: flex;align-items:flex-start;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--flex-end-->
+    <view style="display: flex;align-items:flex-end;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--center-->
+    <view style="display: flex;align-items:center;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--baseline-->
+    <view style="display: flex;align-items:baseline;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1-text</view>
+        <view class="item2">2-text</view>
+        <view class="item3">3-text</view>
+    </view>
+
+    <!--stretch-->
+    <view style="display: flex;align-items:stretch;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1" style="height:auto;">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+    
+</view>

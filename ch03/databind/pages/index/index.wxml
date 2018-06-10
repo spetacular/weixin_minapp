@@ -1,0 +1,41 @@
+<!--index.wxml-->
+<view class="container">
+
+  <!--简单绑定-->
+  <view> {{ message }} </view>
+
+  <!--组件属性-->
+  <view id="item_{{id}}">组件属性</view>
+
+  <!--控制属性-->
+  <view wx:if="{{condition_yes}}">能看到</view>
+  <view wx:if="{{condition_no}}">看不到</view>
+
+  <!--三元运算-->
+  <view hidden="{{flag_hidden ? true : false}}"> Hidden </view>
+  <view hidden="{{!flag_hidden ? true : false}}"> Show </view>
+
+  <!--算数运算-->
+  <view> {{a + b}} + {{c}} + d </view>
+
+  <!--逻辑判断与wx:if条件渲染-->
+  <view wx:if="{{length > 5}}">length > 5</view>
+
+  <!--block wx:if条件渲染-->
+  <block wx:if="{{block}}">
+    <view>Block view1 </view>
+    <view>Block view2 </view>
+  </block>
+
+  <!--字符串运算-->
+  <view>{{"Message：" + message}}</view>
+
+  <!--组合：数组与wx:for列表渲染-->
+  <view wx:for="{{[zero, 1, 2, 3, 4]}}"> {{item}} </view>
+
+  <!--block wx:fo列表渲染-->
+  <block wx:for="{{['一', '二', '三']}}">
+    <view> NO.{{index}}: </view>
+    <view> {{item}} </view>
+  </block>
+</view>

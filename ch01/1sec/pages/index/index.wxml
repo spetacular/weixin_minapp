@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+	<text class="title">一秒钟有多长？
+	你能精确地按出一秒钟吗？</text>
+	<text class="result">{{ result }}</text> 
+	<view class="push_btn" id="push_btn" catchtouchstart="push_start" catchtouchend="push_end">
+    	<icon type="circle" size="45" color="orange"/>
+	</view>
+</view>

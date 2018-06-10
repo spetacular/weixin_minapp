@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="default">默认样式在index.wxss里定义</view>
+
+  <view class="outer">外部样式在outer.wxss里定义</view>
+
+  <view style="color:{{color}};" >这里的颜色会随机改变</view>
+
+  <button type="default" bindtap="changeColor">改变颜色</button>
+</view>

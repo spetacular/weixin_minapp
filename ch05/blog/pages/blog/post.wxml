@@ -1,0 +1,5 @@
+<!--pages/blog/post.wxml-->
+<import src="postItem.wxml" />
+<view class="container">
+  <template is="postItem" data="{{item}}" />
+</view>

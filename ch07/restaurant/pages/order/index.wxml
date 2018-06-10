@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="refresh">
+    <button type="primary" bindtap="reFresh">刷新最新进度</button>
+  </view>
+    <view wx:for="{{queues}}" wx:key="id" class="section">
+      <view class="section__title bc_orange">{{item.description}}</view>
+      <view class="flex-wrp" style="flex-direction:row;">
+        <text class="flex-item">
+          当前轮到号：<text class="red">{{item.current_number}}</text>号\n
+          排队等待人数：<text class="red">{{item.queue_count}}</text>人
+        </text>    
+        <button class="gotoqueue" type="primary" data-catid="{{item.id}}" bindtap="goToQueue"> 我要排队</button>
+      </view>
+    </view><!--section--> 
+</view><!--container-->

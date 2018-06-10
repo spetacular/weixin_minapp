@@ -1,0 +1,37 @@
+<!--pages/demo/justify-content.wxml-->
+<view class="container_demo">
+    <!--flex-start-->
+    <view style="display: flex;justify-content: flex-start;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--flex-end-->
+    <view style="display: flex;justify-content: flex-end;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--center-->
+    <view style="display: flex;justify-content: center;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--space-between-->
+    <view style="display: flex;justify-content: space-between;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+
+    <!--space-around-->
+    <view style="display: flex;justify-content: space-around;background-color:#FFCC99;margin-bottom:10rpx;">
+        <view class="item1">1</view>
+        <view class="item2">2</view>
+        <view class="item3">3</view>
+    </view>
+</view>

@@ -1,0 +1,5 @@
+<!--pages/news/article.wxml-->
+<import src="articleItem.wxml" />
+<view class="container">
+  <template is="articleItem" data="{{item}}" />
+</view>

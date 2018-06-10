@@ -1,0 +1,68 @@
+/**app.wxss**/
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50rpx 0;
+  box-sizing: border-box;
+}
+
+.flex-wrp {
+  height: 100px;
+  display: flex;
+  background-color: #fff;
+}
+
+.flex-item {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.red {
+  color: #f76260;
+}
+
+.bc_orange {
+  background-color: #c96;
+}
+
+.section {
+  margin-bottom: 50rpx;
+  border: 1px dotted #c96;
+  width: 95%;
+  border-radius: 10rpx;
+}
+
+.section_gap {
+  padding: 0 30rpx;
+}
+
+.section__title {
+  margin-bottom: 16rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  width: 200rpx;
+  border-radius: 5rpx;
+}
+
+.section_gap .section__title {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.gotoqueue {
+  height: 80px;
+  margin-left: 10px;
+}
+
+.refresh {
+  width: 95%;
+  margin-bottom: 15rpx;
+}

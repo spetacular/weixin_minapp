@@ -1,0 +1,12 @@
+/**index.wxss**/
+text {
+  text-align: center;
+}
+
+.result {
+  background-color: #8b572a;
+  padding: 4px;
+  border-radius: 5px;
+  width: 90%;
+  height: 3em;
+}

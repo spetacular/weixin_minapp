@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/demo/flex-direction",
+    "pages/demo/flex-wrap",
+    "pages/demo/flex-flow",
+    "pages/demo/justify-content",
+    "pages/demo/align-items",
+    "pages/demo/align-content"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<import src="articleItem.wxml"/>
+<scroll-view scroll-y="true" class="container" upper-threshold="5" bindscrolltoupper="upper">
+    <block wx:for="{{feeds}}" wx:key="id" >
+        <template is="articleItem" data="{{item}}"/>
+    </block>
+</scroll-view>
